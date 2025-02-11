@@ -1,0 +1,364 @@
+URL,Category,sector,industry
+http://www.phillips66.com,Energy,Energy,Petroleum Refining
+http://www.gm.com,Automotive,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.mckesson.com,Healthcare,Wholesalers,Wholesalers: Health Care
+http://www.apple.com,Technology/E-commerce,Technology,"Computers, Office Equipment"
+http://www.ge.com,"Aerospace, Industrial",Financials,Diversified Financials
+http://www.walmart.com,"E-commerce Retail",Retailing,General Merchandisers
+http://www.cvshealth.com,Healthcare/Pharmaceuticals,Food & Drug Stores,Food and Drug Stores
+http://www.boeing.com,Aerospace/Defense,Aerospace & Defense,Aerospace and Defense
+http://www.jpmorganchase.com,Banking/Finance,Financials,Commercial Banks
+http://www.pg.com,"Consumer Goods Multinational Corporation",Household Products,Household and Personal Products
+http://www.citigroup.com,Financial Services,Financials,Commercial Banks
+http://www.ibm.com,"Technology Corporate",Technology,Information Technology Services
+http://www.walgreensbootsalliance.com,Healthcare,Food & Drug Stores,Food and Drug Stores
+http://www.bankofamerica.com,Finance/Financial Services,Financials,Commercial Banks
+http://www.target.com,"E-commerce Retail",Retailing,General Merchandisers
+http://www.jnj.com,Healthcare,Health Care,Pharmaceuticals
+http://www.adm.com,"Food, Pet and Animal Nutrition","Food, Beverages & Tobacco",Food Production
+http://www.conocophillips.com,Energy/Energy Company,Energy,"Mining, Crude-Oil Production"
+http://www.dow.com,Business/Industry,Chemicals,Chemicals
+http://www.intel.com,International organization,Technology,Semiconductors and Other Electronic Components
+http://www.merck.com,Health/Pharmaceutical,Health Care,Pharmaceuticals
+http://www.wfscorp.com,Energy,Wholesalers,Wholesalers: Diversified
+http://www.chsinc.com,Company/Enterprise,"Food, Beverages & Tobacco",Food Production
+http://www.plainsallamerican.com,Energy/Transportation,Energy,Pipelines
+http://www.dupont.com,Chemicals/Manufacturing,Chemicals,Chemicals
+http://www.tysonfoods.com,Food/Company,"Food, Beverages & Tobacco",Food Production
+http://www.tysonfoods.com,Food/Company,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.americanexpress.com,Financial Services,Financials,Commercial Banks
+http://www.nationwide.com,Insurance,Financials,Insurance: Property and Casualty (Mutual)
+http://www.publix.com,"Food & Grocery, Retail",Food & Drug Stores,Food and Drug Stores
+http://www.generaldynamics.com,Defense/Industry,Aerospace & Defense,Aerospace and Defense
+http://www.allstate.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.searsholdings.com,E-commerce/Retail,Retailing,General Merchandisers
+http://www.pmi.com,Corporate/E-commerce,"Food, Beverages & Tobacco",Tobacco
+http://www.bakerhughes.com,Corporate/Industrial,Energy,"Oil and Gas Equipment, Services"
+http://www.oxy.com,Energy/Utilities,Energy,"Mining, Crude-Oil Production"
+http://www.gilead.com,Healthcare/Pharmaceutical,Health Care,Pharmaceuticals
+http://www.emerson.com,Technology/Industrial Equipment,Industrials,"Electronics, Electrical Equip."
+http://www.qualcomm.com,Technology,Technology,Network and Other Communications Equipment
+http://www.northropgrumman.com,Business/Industry,Aerospace & Defense,Aerospace and Defense
+http://www.internationalpaper.com,International organization,Materials,"Packaging, Containers"
+http://www.alcoa.com,Corporate/Industrial,Materials,Metals
+http://www.raytheon.com,Defense Aerospace Technology,Aerospace & Defense,Aerospace and Defense
+http://www.up.com,"Transportation, Business",Transportation,Railroads
+http://www.nov.com,Oil/Gas,Energy,"Oil and Gas Equipment, Services"
+http://www.capitalone.com,Financial Services/ Banking,Financials,Commercial Banks
+http://www.aflac.com,Insurance,Financials,"Insurance: Life, Health (stock)"
+http://www.pbfenergy.com,"Energy Company Oil Refinery",Energy,Petroleum Refining
+http://www.manpowergroup.com,"Employment/Staffing Agency Business Services",Business Services,Temporary Help
+http://www.whirlpoolcorp.com,"Investor relations Corporate",Industrials,"Electronics, Electrical Equip."
+http://www.devonenergy.com,Energy/Company News,Energy,"Mining, Crude-Oil Production"
+http://www.paccar.com,"Industrial/Manufacturing Corporate",Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.kohlscorporation.com,"E-commerce Retail",Retailing,General Merchandisers
+http://www.southerncompany.com,"Electric Utility Company Business/Industry",Energy,Utilities: Gas and Electric
+http://www.danaher.com,Medical/Healthcare Technology,Technology,"Scientific,Photographic and Control Equipment"
+http://www.amgen.com,Healthcare/Biotechnology,Health Care,Pharmaceuticals
+http://www.southwest.com,Transportation/Air Travel,Transportation,Airlines
+http://www.lear.com,Company,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.penskeautomotive.com,Automotive,Retailing,"Automotive Retailing, Services"
+http://www.aes.com,Energy,Energy,Utilities: Gas and Electric
+http://www.colgatepalmolive.com,"Company Health/Fitness",Household Products,Household and Personal Products
+http://www.officedepot.com,"E-commerce Retailer",Retailing,Specialty Retailers: Other
+http://www.gapinc.com,"E-commerce Privacy",Retailing,Specialty Retailers: Apparel
+http://www.micron.com,Technology/Electronics,Technology,Semiconductors and Other Electronic Components
+http://www.bms.com,Healthcare/Pharmaceutical,Health Care,Pharmaceuticals
+http://www.jabil.com,Manufacturing/Technology,Technology,Semiconductors and Other Electronic Components
+http://www.nrgenergy.com,"Sustainability/Energy Corporate/Industry News",Energy,Energy
+http://www.kindermorgan.com,Energy,Energy,Pipelines
+http://www.aramark.com,Business/Corporate,Business Services,Diversified Outsourcing Services
+http://www.firstenergycorp.com,"Energy/Utility Company Business/Economic News",Energy,Utilities: Gas and Electric
+http://www.viacom.com,"Entertainment Media",Media,Entertainment
+http://www.chrobinson.com,"Logistics Freight",Transportation,Transportation and Logistics
+http://www.edisoninvestor.com,Investment/Corporate Affairs,Energy,Utilities: Gas and Electric
+http://www.lfg.com,"Financial Services Insurance",Financials,"Insurance: Life, Health (stock)"
+http://www.mmc.com,"Professional Services Business/Finance",Financials,Diversified Financials
+http://www.wellcare.com,Health Insurance,Health Care,Health Care: Insurance and Managed Care
+http://www.csc.com,Technology/Software,Technology,Information Technology Services
+http://www.ti.com,Electronics/Technology,Technology,Semiconductors and Other Electronic Components
+http://www.leucadia.com,Finance,"Food, Beverages & Tobacco",Food Production
+http://www.dteenergy.com,Energy/Utility Company,Energy,Utilities: Gas and Electric
+http://www.adp.com,Human Resources/Human Capital Management,Business Services,Diversified Outsourcing Services
+http://www.praxair.com,Industrial/Manufacturing,Chemicals,Chemicals
+http://www.l-3com.com,"Defense Technology Military",Aerospace & Defense,Aerospace and Defense
+http://www.toysrusinc.com,"Toys/Children's Product Retail/E-commerce",Retailing,Specialty Retailers: Other
+http://www.guardianlife.com,Financial Services,Financials,"Insurance: Life, Health (Mutual)"
+http://www.rossstores.com,E-commerce/ Retail,Retailing,Specialty Retailers: Apparel
+http://www.libertyinteractive.com,"E-commerce Investment/Finance",Technology,Internet Services and Retailing
+http://www.voya.com,"1. Financial Services 2. Insurance",Financials,"Insurance: Life, Health (stock)"
+http://www.sempra.com,Energy,Energy,Utilities: Gas and Electric
+http://www.sherwin.com,Paint/Coatings,Chemicals,Chemicals
+http://www.heinz.com,Food/Condiment,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.firstdata.com,"E-commerce Financial Services",Business Services,Financial Data Services
+http://www.navistar.com,Automotive,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.c-a-m.com,Energy/Industry,Energy,"Oil and Gas Equipment, Services"
+http://www.stryker.com,Medical Device Manufacturer,Health Care,Medical Products and Equipment
+http://www.eastman.com,Chemical/Industrial,Chemicals,Chemicals
+http://www.precast.com,Manufacturing/Education,Aerospace & Defense,Aerospace and Defense
+http://www.genworth.com,"Insurance Healthcare",Financials,"Insurance: Life, Health (stock)"
+http://www.owens-minor.com,Healthcare/Education,Wholesalers,Wholesalers: Health Care
+http://www.discoverfinancial.com,Finance/Banking,Financials,Commercial Banks
+http://www.nglenergypartners.com,"Energy/Environment, Business",Wholesalers,Wholesalers: Diversified
+http://www.deanfoods.com,"Agriculture Food Industry","Food, Beverages & Tobacco",Food Consumer Products
+http://www.hormelfoods.com,Food Company/Company News,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.autoliv.com,Manufacturing/Economy,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.crowncork.com,"Manufacturing/Industry Consumer Goods",Materials,"Packaging, Containers"
+http://www.appliedmaterials.com,Technology/Engineering,Technology,Semiconductors and Other Electronic Components
+http://www.republicservices.com,"Environmental Services Business/Industry",Business Services,Waste Management
+http://www.darden.com,Education,"Hotels, Resturants & Leisure",Food Services
+http://www.mastercard.com,Finance,Business Services,Financial Data Services
+http://www.suntrust.com,Personal Finance/Banking,Financials,Commercial Banks
+http://www.tenneco.com,Manufacturing,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.aecom.com,Business/Consulting,Engineering & Construction,"Engineering, Construction"
+http://www.broadcom.com,Technology/Computer Hardware,Technology,Semiconductors and Other Electronic Components
+http://www.pricelinegroup.com,"E-commerce Travel",Technology,Internet Services and Retailing
+http://www.campbellsoupcompany.com,Food,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.reynoldsamerican.com,"Health/Non-Profit, Business","Food, Beverages & Tobacco",Tobacco
+http://www.bd.com,Health,Health Care,Medical Products and Equipment
+http://www.jarden.com,"Consumer Goods Business/Finance",Household Products,"Home Equipment, Furnishings"
+http://www.murphyoilcorp.com,"Energy Company Corporate/Industry",Energy,"Mining, Crude-Oil Production"
+http://www.weyerhaeuser.com,"1. Corporate 2. Business/Industry",Materials,Forest and Paper Products
+http://www.borgwarner.com,"Automotive Business",Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.quantaservices.com,Technology/Services,Engineering & Construction,"Engineering, Construction"
+http://www.calpine.com,Energy/Utility,Energy,Energy
+http://www.spartannash.com,"Retail/E-commerce Wholesale",Wholesalers,Wholesalers: Food and Grocery
+http://www.kkr.com,Financial,Financials,Securities
+http://www.mohawkind.com,"Home & Garden Business to Business (B2B)",Household Products,zMiscellaneous
+http://www.fmctechnologies.com,Technology/Telecommunications,Energy,"Oil and Gas Equipment, Services"
+http://www.core-mark.com,"Food Service, Retail",Wholesalers,Wholesalers: Food and Grocery
+http://www.bostonscientific.com,Healthcare,Health Care,Medical Products and Equipment
+http://www.terex.com,"1. Construction 2. Machinery",Industrials,Construction and Farm Machinery
+http://www.huntingtoningalls.com,Defense/Manufacturing,Aerospace & Defense,Aerospace and Defense
+http://www.wrberkley.com,"Financial Services Insurance",Financials,Insurance: Property and Casualty (Stock)
+http://www.questdiagnostics.com,Health,Health Care,Health Care: Pharmacy and Other Services
+http://www.livenation.com,Entertainment/Events,Media,Entertainment
+http://www.cmc.com,"Art/Design Education",Materials,Metals
+http://www.pacificlife.com,Finance/Insurance,Financials,"Insurance: Life, Health (stock)"
+http://www.mutualofomaha.com,Insurance,Financials,"Insurance: Life, Health (stock)"
+http://www.spiritaero.com,"Aerospace/Aviation, Manufacturing",Aerospace & Defense,Aerospace and Defense
+http://www.symantec.com,Technology/Computing,Technology,Computer Software
+http://www.dana.com,Automotive,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.ncr.com,"E-commerce Financial Services",Technology,"Computers, Office Equipment"
+http://www.buckeye.com,Energy/Industry,Energy,Pipelines
+http://www.53.com,Financial/E-commerce,Financials,Commercial Banks
+http://www.seaboardcorp.com,Food/Company,"Food, Beverages & Tobacco",Food Production
+http://www.sandisk.com,Technology/Electronics,Technology,Semiconductors and Other Electronic Components
+http://www.rockwellautomation.com,"Technology Manufacturing",Industrials,"Electronics, Electrical Equip."
+http://www.lansingtradegroup.com,"Agriculture Business",Wholesalers,Wholesalers: Diversified
+http://www.nisource.com,Energy/Utilities,Energy,Utilities: Gas and Electric
+http://www.erieinsurance.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.mattel.com,Toys and Games,Household Products,"Toys, Sporting Goods"
+http://www.harley-davidson.com,Automotive/ Motorcycles,Transportation,Transportation Equipment
+http://www.generalcable.com,Energy,Industrials,"Electronics, Electrical Equip."
+http://www.mrcglobal.com,"Engineering/Manufacturing Business",Energy,"Oil and Gas Equipment, Services"
+http://www.tegna.com/,Media/News,Media,"Publishing, Printing"
+http://www.packagingcorp.com,Manufacturing/Industry,Materials,"Packaging, Containers"
+http://www.starwoodhotels.com,Travel,"Hotels, Resturants & Leisure","Hotels, Casinos, Resorts"
+http://www.spectraenergy.com,"Energy/Utility Company, Business",Energy,Pipelines
+http://www.amark.com,Precious Metals,Materials,zMiscellaneous
+http://www.jbhunt.com,E-commerce,Transportation,"Trucking, Truck Leasing"
+http://www.con-way.com,Logistics/Freight Shipping,Transportation,Transportation and Logistics
+http://www.jetblue.com,"Travel/Education Airline",Transportation,Airlines
+http://www.navient.com,"Financial Services Education",Financials,Diversified Financials
+http://www.aglresources.com,"Energy/Utility Business",Energy,Utilities: Gas and Electric
+http://www.oldrepublic.com,Financial/Insurance Company,Financials,Insurance: Property and Casualty (Stock)
+http://www.kellyservices.com,"Employment/Staffing Agency Job Search",Business Services,Temporary Help
+http://www.domtar.com,Business/Industry,Materials,Forest and Paper Products
+http://www.ingredion.com,"Food/Ingredients Business","Food, Beverages & Tobacco",Food Production
+http://www.jmsmucker.com,Food,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.boozallen.com,Professional Services,Technology,Information Technology Services
+http://www.westernunion.com,Financial Services,Business Services,Financial Data Services
+http://www.netflix.com,Entertainment,Retailing,Specialty Retailers: Other
+http://www.kindredhealthcare.com,Healthcare,Health Care,Health Care: Medical Facilities
+http://www.amphenol.com,Technology/Electronics Manufacturer,Technology,Network and Other Communications Equipment
+http://www.hosthotels.com,Hotels/Employment,Financials,Real estate
+http://www.pxd.com,Energy/Oil/Gas Company,Energy,"Mining, Crude-Oil Production"
+http://www.arris.com,"Technology Networking/Telecommunications",Technology,Network and Other Communications Equipment
+http://www.lifepointhealth.net,Healthcare/ Hospital,Health Care,Health Care: Medical Facilities
+http://www.insight.com,Technology/IT Consulting,Wholesalers,Wholesalers: Electronics and Office Equipment
+http://www.harman.com,"Technology/Electronics Company/Corporate",Industrials,"Electronics, Electrical Equip."
+http://www.yrcw.com,Transportation,Transportation,"Trucking, Truck Leasing"
+http://www.hanover.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.leidos.com,Government,Technology,Information Technology Services
+http://www.rockwellcollins.com,"Aerospace Defense",Aerospace & Defense,Aerospace and Defense
+http://www.fiserv.com,"Financial Services Technology",Business Services,Financial Data Services
+http://www.atd-us.com,"Automotive Corporate/Industrial",Wholesalers,Wholesalers: Diversified
+http://www.abm.com,Business/Service Provider,Business Services,Diversified Outsourcing Services
+http://www.spragueenergy.com,Energy,Wholesalers,Wholesalers: Diversified
+http://www.berryplastics.com,Manufacturing/Industry,Materials,"Packaging, Containers"
+http://www.flowserve.com,Industrial/Manufacturing,Industrials,Industrial Machinery
+http://www.cbrands.com,Food/Beverage,"Food, Beverages & Tobacco",Beverages
+http://www.sonoco.com,Business/Economy,Materials,"Packaging, Containers"
+http://www.cinfin.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.simon.com,Retail,Financials,Real estate
+http://www.atmosenergy.com,"Energy/Utilities Public Service/Government",Energy,Utilities: Gas and Electric
+http://www.cfindustries.com,"Energy/Environment Business",Chemicals,Chemicals
+http://www.spx.com,Manufacturing,Industrials,Industrial Machinery
+http://www.mtb.com,"Financial Services Banking",Financials,Commercial Banks
+http://www.aleris.com,Documentation/Tech Support,Materials,Metals
+http://www.roberthalf.com,Recruitment/Job Board,Business Services,Temporary Help
+http://www.rushenterprises.com,Business,Retailing,"Automotive Retailing, Services"
+http://www.nvidia.com,Technology/Computer Hardware,Technology,Semiconductors and Other Electronic Components
+http://www.levistrauss.com,"Fashion Corporate",Apparel,Apparel
+http://www.superiorenergy.com,"Energy/Oil and Gas Business/Services",Energy,"Oil and Gas Equipment, Services"
+http://www.williams-sonomainc.com,"E-commerce Retail",Retailing,Specialty Retailers: Other
+http://www.lamresearch.com,Technology,Technology,Semiconductors and Other Electronic Components
+http://www.ajg.com,Finance,Financials,Diversified Financials
+http://www.colfaxcorp.com,Healthcare/Orthopedics,Industrials,Industrial Machinery
+http://www.juniper.net,Technology/Computer Networking,Technology,Network and Other Communications Equipment
+http://www.mastec.com,Engineering/Construction,Engineering & Construction,"Engineering, Construction"
+http://www.theice.com,Financial,Financials,Securities
+http://www.libertymedia.com,Financial/Corporate,Media,Entertainment
+http://www.nvrinc.com,"Homebuilding Real Estate",Engineering & Construction,Homebuilders
+http://www.meadjohnson.com,Healthcare,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.westlake.com,"Corporate News Business/Finance",Chemicals,Chemicals
+http://www.avaya.com,Technology/Software,Technology,Network and Other Communications Equipment
+http://www.fmglobal.com,"Insurance Financial Services",Financials,Insurance: Property and Casualty (Stock)
+http://www.graphicpkg.com,"1. Software 2. Design",Materials,"Packaging, Containers"
+http://www.molsoncoors.com,Beverage/Alcohol,"Food, Beverages & Tobacco",Beverages
+http://www.mccormickcorporation.com,"Food Business","Food, Beverages & Tobacco",Food Consumer Products
+http://www.securian.com,Insurance,Financials,"Insurance: Life, Health (stock)"
+http://www.brunswick.com,Finance,Transportation,Transportation Equipment
+http://www.pattersoncompanies.com,Healthcare,Wholesalers,Wholesalers: Health Care
+http://www.ametek.com,Technology/Science,Technology,"Scientific,Photographic and Control Equipment"
+http://www.troweprice.com,Financial Services,Financials,Securities
+http://www.swn.com,"Business/Corporation Energy/Industry",Energy,"Mining, Crude-Oil Production"
+http://www.manitowoc.com,Manufacturing/Equipment,Industrials,Construction and Farm Machinery
+http://www.darlingii.com,Environmental/Sustainability,"Food, Beverages & Tobacco",Food Production
+http://www.tollbrothers.com,Real Estate,Engineering & Construction,Homebuilders
+http://www.torchmarkcorp.com,"Investment/Finance Corporate/Business",Financials,"Insurance: Life, Health (stock)"
+http://www.genesisenergy.com,"Investment Financial Services",Energy,Pipelines
+http://www.watsco.com,Investment/Finance,Wholesalers,Wholesalers: Diversified
+http://www.xyleminc.com,Environment,Industrials,Industrial Machinery
+http://www.carlyle.com,Investment/Finance,Financials,Securities
+http://www.timken.com,Manufacturing/Education,Industrials,Industrial Machinery
+http://www.leggett.com,Home Goods/Electronics,Household Products,"Home Equipment, Furnishings"
+http://www.saic.com,"Government/Military Technology/Engineering",Technology,Information Technology Services
+http://www.meritor.com,Industrial/Energy,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.polyone.com,Industrial/Manufacturing,Chemicals,Chemicals
+http://www.commscope.com,"Technology Telecommunications",Technology,Network and Other Communications Equipment
+http://www.consolenergy.com,Energy/Minerals,Energy,"Mining, Crude-Oil Production"
+http://www.usg.com,"1. Construction 2. Manufacturing",Materials,"Building Materials, Glass"
+http://www.lexmark.com,"E-commerce Business/Industry",Technology,Computer Peripherals
+http://www.brinks.com,Finance,Business Services,Diversified Outsourcing Services
+http://www.hpinc.com,Business/Corporation,Energy,"Oil and Gas Equipment, Services"
+http://www.aam.com,Automotive,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.oceaneering.com,Engineering/Industry,Energy,"Oil and Gas Equipment, Services"
+http://www.crowncastle.com,"Technology/Telecommunications Infrastructure",Telecommunications,Telecommunications
+http://www.cit.com,Financial Services,Financials,Commercial Banks
+http://www.cabotcorp.com,Chemical/Manufacturing,Chemicals,Chemicals
+http://www.countryfinancial.com,"Financial Services Insurance",Financials,Insurance: Property and Casualty (Mutual)
+http://www.bigheartpet.com,Animal Welfare,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.fossilgroup.com,E-commerce and Fashion,Apparel,Apparel
+http://www.urbanoutfittersinc.com,"E-commerce Retail",Retailing,Specialty Retailers: Apparel
+http://www.lennoxinternational.com,Manufacturing/Equipment/Industrial,Industrials,Industrial Machinery
+http://www.moodys.com,Finance,Financials,Diversified Financials
+http://www.alliantenergy.com,Energy/Utility,Energy,Utilities: Gas and Electric
+http://www.hubbell.com,"Business/Industry Conference",Industrials,"Electronics, Electrical Equip."
+http://www.oaktreecapital.com,Financial/Investment,Financials,Securities
+http://www.crbard.com,Healthcare,Health Care,Medical Products and Equipment
+http://www.unisys.com,Logistics/Business,Technology,Information Technology Services
+http://www.churchdwight.com,"1.Consumer Goods 2.Corporation",Household Products,Household and Personal Products
+http://www.ae.com,Fashion/E-commerce,Retailing,Specialty Retailers: Apparel
+http://www.patenergy.com,Energy/Industry,Energy,"Oil and Gas Equipment, Services"
+http://www.landstar.com,Transportation/Logistics,Transportation,"Trucking, Truck Leasing"
+http://www.urc.com,"Energy/Oil/Refining Retail/E-commerce",Energy,Petroleum Refining
+http://www.sungard.com,Financial Services,Business Services,Financial Data Services
+http://www.iac.com,"Corporate Website Company/Corporation",Technology,Internet Services and Retailing
+http://www.parpacific.com/,Energy/Oil/Gas,Energy,Petroleum Refining
+http://www.chiquita.com,Food/E-commerce,"Food, Beverages & Tobacco",Food Production
+http://www.wmg.com,Music,Media,Entertainment
+http://www.sabre.com,Travel,Technology,Internet Services and Retailing
+http://www.craneco.com,"1. Industrial 2. Manufacturing",Industrials,Industrial Machinery
+http://corporate.univision.com,Media/Entertainment,Media,Entertainment
+http://www.huntington.com,Banking,Financials,Commercial Banks
+http://www.tribunemedia.com,Business/Finance News,Media,Entertainment
+http://www.dentsplysirona.com,Healthcare,Health Care,Medical Products and Equipment
+http://www.archrock.com/,"Oil/Gas Industry Energy/Utilities",Energy,"Oil and Gas Equipment, Services"
+http://www.brinker.com,"Food, Restaurant","Hotels, Resturants & Leisure",Food Services
+http://www.exide.com,"Automotive/Industrial Equipment Energy/Power",Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.analog.com,Technology/Engineering,Technology,Semiconductors and Other Electronic Components
+http://www.bonton.com,Home Goods,Retailing,General Merchandisers
+http://www.kennametal.com,Industrial/E-commerce,Industrials,Industrial Machinery
+http://www.scansource.com,Technology/E-commerce,Wholesalers,Wholesalers: Electronics and Office Equipment
+http://www.wolverineworldwide.com,"1. Corporate 2. Retail",Apparel,Apparel
+http://www.stancorpfinancial.com,Business/Finance,Financials,"Insurance: Life, Health (stock)"
+http://www.anteroresources.com,Energy/Company/Industry,Energy,"Mining, Crude-Oil Production"
+http://www.dstsystems.com,Business/Corporate Website,Business Services,Financial Data Services
+http://www.hyster-yale.com,"Business/Finance Corporation",Industrials,Industrial Machinery
+http://www.vno.com,"Real Estate Sustainability/Energy",Financials,Real estate
+http://www.teradata.com,Business/Technology Software,Technology,Computer Software
+http://www.ufpi.com,Corporate/Industrial,Materials,Forest and Paper Products
+http://www.armstrong.com,"Home Improvement Architecture/Design",Materials,"Building Materials, Glass"
+http://www.hcc.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.moog.com,Technology/Electronics,Aerospace & Defense,Aerospace and Defense
+http://www.concho.com,Energy,Energy,"Mining, Crude-Oil Production"
+http://www.nortekinc.com,"1. Manufacturing 2. HVAC (Heating, Ventilation, and Air Conditioning)",Industrials,Industrial Machinery
+http://www.hologic.com,"Healthcare, Medical Devices",Health Care,Medical Products and Equipment
+http://www.schnitzersteel.com,Corporate/Business,Materials,Metals
+http://www.stericycle.com,Healthcare/Business Services,Business Services,Waste Management
+http://www.corp.aol.com,Technology/Internet,Technology,Internet Services and Retailing
+http://www.panerabread.com,Food,"Hotels, Resturants & Leisure",Food Services
+http://www.tetratech.com,Engineering/Consulting,Engineering & Construction,"Engineering, Construction"
+http://www.vishay.com,Electronics/Technology,Technology,Semiconductors and Other Electronic Components
+http://www.enersys.com,Industrial/Energy,Industrials,"Electronics, Electrical Equip."
+http://www.mt.com,"Scientific/Industrial Equipment Manufacturing/Tech",Technology,"Scientific,Photographic and Control Equipment"
+http://www.momentive.com,Chemicals/Manufacturing,Chemicals,Chemicals
+http://www.donaldson.com,Manufacturing/E-commerce,Industrials,Industrial Machinery
+http://www.eqt.com,"Energy/Corporation News/Oil/Gas/Energy",Energy,Energy
+http://www.equifax.com,"1. Financial Services 2. Credit Reporting",Business Services,Financial Data Services
+http://www.bostonproperties.com,Real Estate/Corporate Headquarters,Financials,Real estate
+http://www.cimarex.com,Energy/Industry,Energy,"Mining, Crude-Oil Production"
+http://www.postholdings.com,"Food/Beverage Company Company Website","Food, Beverages & Tobacco",Food Consumer Products
+http://www.denbury.com,Energy/Oil/Gas,Energy,"Mining, Crude-Oil Production"
+http://www.ferrellgas.com,"Energy/Utility, Business",Energy,Energy
+http://www.take2games.com,Gaming,Technology,Computer Software
+http://www.rpc.net,Business/Energy,Energy,"Oil and Gas Equipment, Services"
+http://www.insperity.com,Human Resources (HR) / Business Services,Business Services,Diversified Outsourcing Services
+http://www.muellerindustries.com,Manufacturing/Industrials,Industrials,Industrial Machinery
+http://www.hhgregg.com,"Electronics Gaming",Retailing,Specialty Retailers: Other
+http://www.aosmith.com,Manufacturing/E-commerce,Industrials,"Electronics, Electrical Equip."
+http://www.shos.com,Health and Beauty,Retailing,Specialty Retailers: Other
+http://www.aointl.com,Business/Company Information,"Food, Beverages & Tobacco",Tobacco
+http://www.newmarket.com,"Company/Corporate Finance",Chemicals,Chemicals
+http://www.belden.com,Electronics/Technology,Industrials,"Electronics, Electrical Equip."
+http://www.graniteconstruction.com,Construction,Engineering & Construction,"Engineering, Construction"
+http://www.ahgp.com,"Energy Company Business/Financial",Energy,"Mining, Crude-Oil Production"
+http://www.edwards.com,Healthcare,Health Care,Medical Products and Equipment
+http://www.skyworksinc.com,Electronics,Technology,Semiconductors and Other Electronic Components
+http://www.hawaiianairlines.com,"Travel Tourism",Transportation,Airlines
+http://www.triplesmanagement.com,Healthcare,Health Care,Health Care: Insurance and Managed Care
+http://www.partycity.com,"Party Supply Store Specialty Gift Shop",Retailing,Specialty Retailers: Other
+http://www.hcpi.com,"Healthcare, Real Estate",Financials,Real estate
+http://www.dyn-intl.com,"Engineering & Technology Defense/Space/Aerospace",Aerospace & Defense,Aerospace and Defense
+http://www.ciena.com,Technology/Telecommunications,Technology,Network and Other Communications Equipment
+http://www.parexel.com,Healthcare/Pharmaceuticals,Health Care,Health Care: Pharmacy and Other Services
+http://www.brocade.com,Technology/Computer Hardware,Technology,Network and Other Communications Equipment
+http://www.ocwen.com,Finance/Financial Services,Financials,Diversified Financials
+http://www.amcnetworks.com,Entertainment/Information Website,Media,Entertainment
+http://www.kemper.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.symetra.com,"Insurance Financial Services",Financials,"Insurance: Life, Health (stock)"
+http://www.towerinternational.com,"Manufacturing Logistics",Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.chemtura.com,Chemical/Industrial,Chemicals,Chemicals
+http://www.trinet.com,Human Resources (HR),Business Services,Diversified Outsourcing Services
+http://www.trueblue.com,"Human Resources, Recruitment",Business Services,Temporary Help
+http://www.kodak.com,Technology/Industrial,Technology,"Scientific,Photographic and Control Equipment"
+http://www.gbrx.com,Company/Employment,Transportation,Transportation Equipment
+http://www.hain.com,Health/Fitness,"Food, Beverages & Tobacco",Food Consumer Products
+http://www.american-equity.com,"Financial Services Insurance",Financials,"Insurance: Life, Health (stock)"
+http://www.diplomat.is,"Healthcare Pharmacy",Food & Drug Stores,Food and Drug Stores
+http://www.idexcorp.com,Manufacturing/Energy,Industrials,Industrial Machinery
+http://www.nationstarmtg.com,Finance/Real Estate,Financials,Diversified Financials
+http://www.allisontransmission.com,Manufacturing/Energy,Motor Vehicles & Parts,Motor Vehicles and Parts
+http://www.intuitivesurgical.com,International organization,Health Care,Medical Products and Equipment
+http://www.semgroupcorp.com,Energy/Transportation/Logistics,Energy,Pipelines
+http://www.wasteconnections.com,"Environmental Services Waste Management",Business Services,Waste Management
+http://www.harsco.com,"1. Environmental 2. Business/Industry",Materials,Metals
+http://www.khov.com,Real Estate,Engineering & Construction,Homebuilders
+http://www.aboutwendys.com,Food/Restaurant,"Hotels, Resturants & Leisure",Food Services
+http://www.aarcorp.com,AOG Investors,Aerospace & Defense,Aerospace and Defense
+http://www.selective.com,Insurance,Financials,Insurance: Property and Casualty (Stock)
+http://www.synopsys.com,Technology/Electronics,Technology,Computer Software
+http://www.universalamerican.com,"Gaming, Entertainment",Health Care,Health Care: Insurance and Managed Care
+http://www.etrade.com,"Financial Services Finance",Financials,Securities
