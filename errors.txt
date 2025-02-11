@@ -40,5 +40,12 @@ http://www.universalamerican.com,"Gaming, Entertainment",Health Care,Health Care
 
 
 
-http://www.phillips66.com,"E-commerce News/Informational",Energy,Petroleum Refining
-http://www.mckesson.com,Entertainment/News,Wholesalers,Wholesalers: Health Care
+https://a1office.co,Online Gaming, document conversion
+https://a1.art,"Entertainment Gaming", ai image generation
+https://a16z.com,Technology, venture capital
+https://a23.com,"Gaming Entertainment", fantasy gaming
+https://a24.com,Entertainment, News
+https://aaatourship.com,Gaming, fantasy gaming
+https://aaceclinicalcasereports.com,Scientific/ Academic, Medical Research
+https://aadityaparmar.in,Education, Legal Information
+https://aadityacademy.com,"Biography, Automobile", Blogs

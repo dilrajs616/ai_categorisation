@@ -1,701 +1,1237 @@
-URL,Category
-http://www.phillips66.com,"E-commerce
-News/Informational"
-http://www.gm.com,Transportation/E-commerce
-http://www.mckesson.com,Entertainment/News
-http://www.apple.com,"Electronics
-Technology"
-http://www.ge.com,"Energy/Industrial
-Business/Finance"
-http://www.walmart.com,"Shopping
-Gifts/E-commerce"
-http://www.cvshealth.com,"1. Health
-2. Business/Company Information"
-http://www.boeing.com,"1. Business
-2. Technology"
-http://www.jpmorganchase.com,E-commerce/Online Shopping
-http://www.pg.com,"1. Consumer Goods
-2. Business/Corporation"
-http://www.citigroup.com,"1. Informational/Educational
-2. Legal/Privacy Policy"
-http://www.ibm.com,"1. Technology
-2. Business/Corporate"
-http://www.walgreensbootsalliance.com,"Healthcare/Pharmacy 
-Business/Company"
-http://www.bankofamerica.com,"Finance
-Banking"
-http://www.target.com,"Retail
-Shopping"
-http://www.jnj.com,"E-commerce
-Online shopping"
-http://www.adm.com,"Advertising
-Gaming"
-http://www.conocophillips.com,"Online Shopping
-Information Website"
-http://www.dow.com,"Online shopping
-E-commerce"
-http://www.intel.com,International organization
-http://www.merck.com,"Healthcare/Pharmaceuticals 
-
-Medical Research"
-http://www.wfscorp.com,Energy/ Business/Energy company
-http://www.chsinc.com,"Online Shopping
-News Website"
-http://www.plainsallamerican.com,"Energy/Industry
-Business/Energy"
-http://www.dupont.com,"Chemicals
-Industrial Goods/Services"
-http://www.tysonfoods.com,"Food/Consumer Goods, Business/Economics"
-http://www.americanexpress.com,"Financial Services
-Credit Cards/ Banking"
-http://www.nationwide.com,"Insurance 
-Financial Services"
-http://www.publix.com,"E-commerce
-Retail"
-http://www.generaldynamics.com,"Aerospace/Military
-Business/Finance"
-http://www.allstate.com,"E-commerce
-Media/Entertainment"
-http://www.searsholdings.com,"E-commerce
-Online shopping"
-http://www.pmi.com,"E-commerce
-Retail"
-http://www.bakerhughes.com,"Energy/Oil/Gas
-
-Industrial/Manufacturing"
-http://www.oxy.com,"News/Informational
-Online Shopping/E-commerce"
-http://www.gilead.com,"E-commerce 
-News Website"
-http://www.emerson.com,"Industrial/Manufacturing, Technology"
-http://www.qualcomm.com,"E-commerce
-News/Information"
-http://www.northropgrumman.com,"Business/E-commerce
-Information Website"
-http://www.internationalpaper.com,International organization
-http://www.alcoa.com,"E-commerce
-News/Information"
-http://www.raytheon.com,"Defense/Aerospace
-Technology"
-http://www.up.com,Transportation/Industry News/Railroads
-http://www.nov.com,"1. Energy
-2. Technology/Engineering"
-http://www.capitalone.com,"1. Finance
-2. Banking"
-http://www.aflac.com,"Insurance
-Health Insurance"
-http://www.pbfenergy.com,"1. Energy
-2. Business/Company Information"
-http://www.manpowergroup.com,"Entertainment
-Informational/Educational"
-http://www.whirlpoolcorp.com,"Consumer Goods/Electronics
-Retail"
-http://www.devonenergy.com,"Energy
-Business/Corporation"
-http://www.paccar.com,Transportation/Industrial/Equipment Manufacturing
-http://www.kohlscorporation.com,"Retail/Shopping
-Department Store/E-commerce"
-http://www.southerncompany.com,"Energy/Electricity
-Business/Company"
-http://www.danaher.com,"1. Technology
-2. Business/Company Information"
-http://www.amgen.com,"1. Health
-2. Pharmaceutical"
-http://www.southwest.com,"Transportation/Travel 
-Airlines"
-http://www.lear.com,"Business/Technology 
-
- or 
-
-Corporate/Information Technology"
-http://www.penskeautomotive.com,"1. E-commerce
-2. Online Marketplaces"
-http://www.aes.com,"Online Service
-Advertising/Marketing"
-http://www.colgatepalmolive.com,"Health and Beauty 
-Consumer Goods/E-commerce"
-http://www.officedepot.com,"E-commerce 
-Retail"
-http://www.gapinc.com,"E-commerce
-Fashion/ Retail"
-http://www.micron.com,"E-commerce
-Marketing/Advertising"
-http://www.bms.com,"E-commerce
-Retail"
-http://www.jabil.com,"Technology/Manufacturing/Electronics 
-
-Engineering/Industrial Processes"
-http://www.nrgenergy.com,"Energy/Energy Industry
-Business/Corporate News"
-http://www.kindermorgan.com,Entertainment/Shopping
-http://www.aramark.com,"Food
-Entertainment"
-http://www.firstenergycorp.com,"Utility/Service
-News/Media"
-http://www.viacom.com,"Entertainment
-Media/News"
-http://www.chrobinson.com,"Transportation/Logistics
-Supply Chain Management"
-http://www.edisoninvestor.com,"Energy/Utilities
-Electric Company (Utility) Website"
-http://www.lfg.com,"Financial Services/Insurance 
-Personal Finance"
-http://www.mmc.com,"Consulting/Financial Services
-Business/Professional Services"
-http://www.wellcare.com,"Medicare
-Health Insurance"
-http://www.csc.com,"Information Website 
-News Website"
-http://www.ti.com,"Technology/Engineering
-Business/Employment"
-http://www.leucadia.com,"Finance
-Investment"
-http://www.dteenergy.com,"Utility Companies
-Energy Providers"
-http://www.adp.com,"Human Resources
-Accounting"
-http://www.praxair.com,"Chemicals
-Industrial Supplies"
-http://www.l-3com.com,"Defense Technology
-News/General News"
-http://www.toysrusinc.com,"1. Retail
-2. Toys and Baby Products"
-http://www.guardianlife.com,"News
-Media/Information Website"
-http://www.rossstores.com,"Business/Commerce
-Online Services"
-http://www.libertyinteractive.com,Financial/Investor Relations
-http://www.voya.com,"Finance 
+https://a1adsupport.com,Health
+https://a1tb.com, Porn/Adult
+https://a1office.co,Online Gaming
+https://a1.group,Technology
+https://a16zcrypto.com,Venture Capital/Blockchain
+https://a1.net,Technology/E-commerce
+https://a1callcenter.com,"Business Services Outsourcing"
+https://a1gl.in,Gemology/Jewelry
+https://a1firestop.com,"Fire Protection Services Construction/Building Services"
+https://a1apps.co,"Software/Technology Company Digital Product/E-commerce"
+https://a1.art,"Entertainment Gaming"
+https://a1d.ai,"1. Graphics & Design 2. Technology"
+https://a16z.com,Technology
+https://a1lottery.in,"Gaming Lottery"
+https://a1rubbishchute.com,Home Services
+https://a10networks.com,Technology/Software
+https://a1qualitys.store,Home Goods/Consumer Products
+https://a23.com,"Gaming Entertainment"
+https://a24.com,Entertainment
+https://a288288.com,News/Information
+https://a2asimulations.com,"Gaming, Simulation"
+https://a24films.com,Entertainment
+https://a2delectronics.ca,"E-commerce Electronics"
+https://a2glifestyle.com,Health/Fitness
+https://a2gov.org,Government
+https://a2hosting.com,Hosting/Websites
+https://a2milk.com,"Food/Drink Health/Fitness"
+https://a2modern.org,"Arts/Culture, History"
+https://a2zteaching.com,Education
+https://a2zbookhub.in,E-commerce/Education
+https://a2zpaper.com,Education
+https://a2zinterviews.com,"1. Education 2. Job/Interview Preparation"
+https://a2zproduct.in,E-commerce/Electronics
+https://a3-engineering.com,Engineering/Technology
+https://a3charge.com,E-commerce/Electronics
+https://a3logics.com,Software/Technology Company
+https://a3tech.online,Technology/Software
+https://a4fertility.com,"Health Care Services Medical Centers"
+https://a4automods.com,"E-commerce, Automotive Accessories"
+https://a4applenews.com,News
+https://a4hospital.com,Healthcare/Medical
+https://a4paper.in,Office Supply Store
+https://a4-size.com,"Informational/Reference, Education"
+https://a4id.org,Non-Governmental Organization (NGO)
+https://a6af6.top,Domain/Parking
+https://a6xq7.top,Websites/Domain Registration
+https://a77satta.com,Gambling/Online Lottery
+https://a8.net,Online Business/E-commerce
+https://a7-satta.com,Gaming/Gambling
+https://a7om.com,Economic or Financial
+https://a7.org,News/Politics
+https://aaaai.org,Medical Organization
+https://aaapest.com,"Entertainment, Technology"
+https://aaa-fta.com,Education/Training
+https://aaabrightacademy.in,Education
+https://aaai.org,Organization
+https://aaafireprotection.com,Fire Protection Services
+http://saaarp.com,"Blockchain, Technology"
+https://aaare.com,Real Estate
+https://aaahq.org,Professional Organization
+https://aaaecommerce.com,E-commerce/E-commerce software
+https://aaams.net,"Health, Medicine"
+https://aabjpdbrovwmctn.com,"Fantasy, Creative Writing"
+https://aaatourship.com,Gaming
+https://aabenaalborg.dk,Education
+https://aaawebstore.com,E-commerce/Online Shopping
+https://aabb.org,Medical
+https://aabasoft.com,Technology/Software
+https://aacademica.org,"Academic/Research Website, Online Library"
+https://aacrjournals.org,"Scientific/Organizational Academic/Publishing"
+https://aacnjournals.org,"Academic/Educational, Science/Research"
+https://aacadetacademy.com,Education/Airlines
+https://aacp.org,"1. Education
+2. Healthcare"
+https://aaconnect.in,Education
+https://aacd.com,Medical/Organization
+https://aaceclinicalcasereports.com,Scientific/ Academic
+https://aabsys.com,"Technology/Services
+Company Information"
+https://aaccgames.com,Gaming/Entertainment
+https://aaccommunity.net,"Healthcare, Education"
+https://aachiglobalschool.com,Education
+https://aachifoods.com,Food/E-commerce
+https://aachho.com,E-commerce/Electronics
+https://aacsb.edu,Education
+https://aadarshasanchar.com,"1. Nepali News
+2. Local News"
+https://aacr.org,Health/Medical
+https://aadhardownload.co,"Government/Official Website
+E-Government Portal"
+https://aadhaarprints.info,Government/Govt Agency
+https://aadharprintsk.xyz,"Service Provider/Consultancy
+Business/Business Services"
+https://aadhaarprintportal.com,"Government/Services, Online Printing"
+https://aadhyathmikakendra.com,"Religion/Spirituality, Shopping/E-commerce"
+https://aadharshilavatika.com,"1. Education
+2. Preschool/PlaySchool"
+https://aaddress.in,Virtual Office Services/Office Rentals
+https://aadxnpfquowm.com,Fiction/Adventure
+https://aad.org,Medical
+https://aadme.co,Digital Marketing Agency/Education
+https://aadmi.com,Company Formation
+https://aadityacademy.com,"Biography, Automobile"
+https://aads.com,Finance/Economy
+https://aadishconsultancy.com,Job Search/Recruitment Agency
+https://aadityaparmar.in,Education
+https://aadyaworldwide.com,"1. Travel
+2. E-commerce"
+https://a-ads.com,Finance/Economy
+https://aafa.org,Health Non-Profit
+https://aagamestudio.com,"Gaming, Entertainment"
+https://aafia.org,"Religious Organization
+Non-Profit Organization"
+https://aae.org,Medical Organization
+https://aagmaal.cat,Website: Blog/Personal Diary
+https://aagmaaal.run,Adult
+https://aagetak.in,Literature/Hindi Literature
+https://aafp.net,Medical Organizations
+https://aafs.org,"Scientific Organization
+Professional Association"
+https://aagee.dz,"Association/Non-profit Organization, Science/Technology"
+https://aagazindia.com,News
+https://aaft.com,"Education, Entertainment"
+https://aafp.org,Healthcare/medicine
+https://aafmaa.com,"Financial Services
 Insurance"
-http://www.sempra.com,"Energy/Utilities
-Company Profile/Information"
-http://www.sherwin.com,"Business/E-commerce 
-Entertainment/News"
-http://www.heinz.com,"Advertising
-News/Information"
-http://www.firstdata.com,"E-commerce/Payments
-Financial Services"
-http://www.navistar.com,"Automotive
-Commercial Vehicle/Truck Manufacturer"
-http://www.c-a-m.com,"Energy/Industrial Services
-Oil/Gas Industry"
-http://www.stryker.com,"Language/Language learning
-Translation Service/Translation tools"
-http://www.eastman.com,"Entertainment
-Advertising/Marketing"
-http://www.precast.com,"1. Aerospace
-2. Manufacturing/Industrial Equipment"
-http://www.genworth.com,"1. Insurance
-2. Finance"
-http://www.owens-minor.com,"Healthcare 
-Medical Supply"
-http://www.discoverfinancial.com,"Finance
-Banking"
-http://www.nglenergypartners.com,"Environment/Conservation
-Business/Energy"
-http://www.deanfoods.com,"News
-Information website"
-http://www.hormelfoods.com,"Food/Company Website 
-Consumer Goods"
-http://www.autoliv.com,"1. Corporate Website
-2. Automotive Industry Website"
-http://www.crowncork.com,"Manufacturing
-Packaging"
-http://www.appliedmaterials.com,"Technology
-Industry/Company"
-http://www.republicservices.com,"Environmental Services
-Business/Company Website"
-http://www.darden.com,"Entertainment
-News"
-http://www.mastercard.com,"E-commerce
-Financial Services"
-http://www.suntrust.com,"Personal Finance
-Self-Improvement"
-http://www.tenneco.com,Information Technology/Software
-http://www.aecom.com,"E-commerce
-Informational/educational"
-http://www.broadcom.com,"Technology
-Business/Company"
-http://www.pricelinegroup.com,"E-commerce
-Travel Services"
-http://www.campbellsoupcompany.com,"1. E-commerce
+https://aagmaal.boo,Adult
+https://aafrose.com,Fashion/E-commerce
+https://aagmaal3.com,"Web Series, Adult Content"
+https://aafnaipasal.com,"E-commerce
+Grocery"
+https://aagmaal.dev,Technology/Website
+https://aagmaal.foo,Gaming
+https://aagmaal.mba,"Education, Business"
+https://aagmaal.lol,Business/Finance
+https://aagmaal.giving,Adult Website/Pornography
+https://aagmaal.autos,"Adult Entertainment
+Porn"
+https://aagmaal.lat,Gaming
+https://aagmaal.ltd,Adult
+https://aagmaal.gives,Porn/Pornography
+https://aagmaals.in,Technical Issue/Server Error
+https://aagmaal.network,Adult Entertainment/Pornography
+https://aagmaal.moi,"Furry, Anime/Manga"
+https://aag.ventures,"Blockchain
+Cryptocurrency"
+https://aagmal.tech,Error Message/Technical Issues
+https://aagmaal.tv,"1. Video
+2. Online Show"
+https://aagmaal.shop,"E-commerce, Online Shopping"
+https://aagmaal.watch,Adult Entertainment
+https://aagmaal.tel,Feline-related
+https://aagmaal.monster,Adult Entertainment
+https://aag.org,Academia/Professional Organization
+https://aagur.com,"Food
+Gift/E-commerce"
+https://aahi.org,"Health/Non-profit organization
+Science/Research institution"
+https://aahiya.com,Fashion/E-commerce
+https://aahvan.com,Travel/Adventure
+https://aaidwcoi2024.com,"Health, Medical"
+https://aaimedicine.org,"Professional Organization
+Medical Association"
+https://aaimjlnsqdt.com,"1. Travel
 2. Entertainment"
-http://www.reynoldsamerican.com,"1. Tobacco
-2. Consumer Goods"
-http://www.bd.com,"E-commerce
-Informational"
-http://www.jarden.com,"1. E-commerce
-2. Consumer Goods Company Website"
-http://www.murphyoilcorp.com,"1. Energy
-2. Business/Finance"
-http://www.weyerhaeuser.com,"Construction
-Lumber/Building Materials
-Business/Industry"
-http://www.borgwarner.com,"Automotive Industry 
-Business/Finance"
-http://www.quantaservices.com,"E-commerce
-Legal/ Law firm"
-http://www.calpine.com,"Energy
-Company/Industry"
-http://www.spartannash.com,"Wholesale Distribution
-Retail"
-http://www.kkr.com,Finance/Investment
-http://www.mohawkind.com,"1. Home Decor
-2. Construction Materials"
-http://www.fmctechnologies.com,"1. Online Marketplace
-2. E-commerce Website"
-http://www.core-mark.com,"Food/ Beverages, Business Services"
-http://www.bostonscientific.com,"E-commerce
-Gaming"
-http://www.terex.com,"Heavy Equipment Manufacturer
-Construction Equipment Supplier"
-http://www.huntingtoningalls.com,"Shipbuilding
-Defense Industry"
-http://www.wrberkley.com,"E-commerce 
-Business/Company Website"
-http://www.questdiagnostics.com,"Online Education/ Learning Platform
-E-commerce Website"
-http://www.livenation.com,"News
-Entertainment"
-http://www.cmc.com,"Art
-Education"
-http://www.pacificlife.com,"Financial Services
-Insurance"
-http://www.mutualofomaha.com,"Insurance
-Finance"
-http://www.spiritaero.com,"1. Aerospace
-2. Industrial Equipment"
-http://www.symantec.com,"Technology/Software
-Corporate/Business"
-http://www.dana.com,"E-commerce
-Informational/educational"
-http://www.ncr.com,"Technology
-Business"
-http://www.buckeye.com,"Energy/Infrastructure
-Business/Organization"
-http://www.53.com,"E-commerce
-Error Page"
-http://www.seaboardcorp.com,"Employment
-Industry/Company Profile"
-http://www.sandisk.com,"Technology
-Electronics"
-http://www.rockwellautomation.com,Industrial or Manufacturing
-http://www.lansingtradegroup.com,Financial Market Data/Trading Platform
-http://www.nisource.com,"Energy/Utilities
-Business/Corporate"
-http://www.erieinsurance.com,"Insurance
-Financial Services"
-http://www.mattel.com,"Toys
-Entertainment"
-http://www.harley-davidson.com,"Motorcycle industry
-Automotive"
-http://www.generalcable.com,Energy/Technology
-http://www.mrcglobal.com,"Industrial Supply
-Construction Equipment/Services"
-http://www.tegna.com/,"Media News
-Company/Business"
-http://www.packagingcorp.com,"Packaging
-Manufacturing/Industrial Equipment"
-http://www.starwoodhotels.com,"1. Entertainment
+https://aajtak.link,News
+http://saaindia.net,Architecture/Design
+https://aajjo.com,B2B Marketplace/E-commerce Platform
+https://aai.info,Business/Finance
+https://aaisnet.org,"Academia/Education, Association/Organization"
+https://aajsecode.com,Student Education Parent Technology Non-Tech Background
+https://aairlab.com,Research/Science
+https://aajsr.com,"Academic Journal, Research Publication"
+https://aajkafreshnews.com,News
+https://aajkatopper.com,Education
+https://aajtaklive.org,"Finance, News"
+https://aajenterprises.com,"Logistics/E-commerce
+Corporate/Industrial"
+https://aajchadinvishesh.com,"1. History
 2. News"
-http://www.spectraenergy.com,"1. Business
-2. Finance"
-http://www.amark.com,"Finance
-Business/Industry (Precious Metals)"
-http://www.jbhunt.com,"News/Media 
-E-commerce"
-http://www.con-way.com,"Logistics
-Transportation"
-http://www.jetblue.com,"Travel
-Airlines"
-http://www.navient.com,"Financial Services
-Education"
-http://www.aglresources.com,"1. Energy
-2. Utility Service Provider"
-http://www.oldrepublic.com,"Financial Services
-Insurance"
-http://www.kellyservices.com,"Job Search
-Recruitment Agency"
-http://www.domtar.com,"Information
-Privacy"
-http://www.ingredion.com,"Food Industry
-Manufacturing/Chemical Industry"
-http://www.jmsmucker.com,"E-commerce/Online shopping
-Informational/Blog"
-http://www.boozallen.com,"Online Business/E-commerce
-Websites/Informational websites"
-http://www.westernunion.com,"Entertainment
-Online Shopping"
-http://www.netflix.com,"Entertainment
-Media/Streaming"
-http://www.kindredhealthcare.com,Healthcare/Job/Recruitment
-http://www.amphenol.com,"Electronics
-Manufacturing/Engineering"
-http://www.hosthotels.com,Investment/Real Estate
-http://www.pxd.com,"Energy/Industry
-Business/Oil and Gas Company"
-http://www.arris.com,"Telecommunications 
-Networking"
-http://www.lifepointhealth.net,Healthcare/ Hospital Management
-http://www.insight.com,"Shopping
-E-commerce"
-http://www.harman.com,"Technology/Electronics
-Consumer Goods"
-http://www.yrcw.com,"Transportation/Logistics
-Business/Finance"
-http://www.hanover.com,"Insurance
-Financial Services"
-http://www.leidos.com,"Defense/Security
-Corporate/Company"
-http://www.rockwellcollins.com,"1. Aerospace
-2. Technology"
-http://www.fiserv.com,Finance/Technology
-http://www.atd-us.com,"Tire manufacturer
-Corporate social responsibility"
-http://www.abm.com,"E-commerce
-Food/Restaurant"
-http://www.spragueenergy.com,Financial News/Business News
-http://www.berryplastics.com,"Entertainment
-E-commerce"
-http://www.flowserve.com,"News/Information Website
-Online Shopping Website"
-http://www.cbrands.com,"Alcohol/Wineries 
-Food/Drink"
-http://www.sonoco.com,"Online Marketplace
-Social Media"
-http://www.cinfin.com,"News
-Entertainment"
-http://www.simon.com,"Entertainment
-Business/Finance"
-http://www.atmosenergy.com,"1. Utility
-2. Energy Provider"
-http://www.cfindustries.com,"Chemicals/Industrials
-Environmental/Sustainability"
-http://www.spx.com,"E-commerce
-Informational"
-http://www.mtb.com,"Financial Services
-Wealth Management"
-http://www.aleris.com,"Documentation
-Technical Support/FAQs"
-http://www.roberthalf.com,"Online shopping
-E-commerce"
-http://www.rushenterprises.com,"E-commerce 
-Informational"
-http://www.nvidia.com,"E-commerce
-Online shopping platform"
-http://www.levistrauss.com,"1. Fashion
-2. Business/Corporate"
-http://www.superiorenergy.com,"Energy Services
-Oil and Gas"
-http://www.williams-sonomainc.com,"Home Decor
-Furniture Store"
-http://www.lamresearch.com,"Entertainment
-E-commerce"
-http://www.ajg.com,"Business/Professional Website 
-E-commerce Website"
-http://www.colfaxcorp.com,"Healthcare
-Medical Technology"
-http://www.juniper.net,"1. Technology
-2. Networking/Computing"
-http://www.mastec.com,"1. Construction/Engineering
-2. Energy/Utilities 
-3. Business/Company Profile"
-http://www.theice.com,"Online Informational/ News Website 
-
-Business/E-commerce Website"
-http://www.libertymedia.com,"Finance 
-Business"
-http://www.nvrinc.com,"Home Builder/Mortgage Services
-Real Estate/Construction"
-http://www.meadjohnson.com,"Health/Personal Care
-Consumer Goods/E-commerce"
-http://www.westlake.com,Business Finance News
-http://www.avaya.com,"Technology
-Business/Corporate"
-http://www.fmglobal.com,"E-commerce
-Business/Corporate"
-http://www.graphicpkg.com,Business/Advertising
-http://www.molsoncoors.com,"Employment/Job Seeker
-Drinks/Alcohol Beverage Company"
-http://www.mccormickcorporation.com,"1. Food Industry
-2. Career/Job Search"
-http://www.securian.com,"E-commerce
-Informational website"
-http://www.brunswick.com,"E-commerce
-Information Website"
-http://www.pattersoncompanies.com,"Healthcare/ Dental Services
-Business/E-commerce"
-http://www.ametek.com,"E-commerce/Shopping
-Business/Corporate"
-http://www.troweprice.com,"E-commerce
-Legal/Informational"
-http://www.swn.com,"Energy/Energy Industry
-Business/Corporation"
-http://www.manitowoc.com,"1. Business
-2. Marketing"
-http://www.darlingii.com,"Entertainment
-News/Social Media"
-http://www.tollbrothers.com,"1. Real Estate
-2. Construction/Building"
-http://www.torchmarkcorp.com,"Insurance
-Finance/Investment"
-http://www.genesisenergy.com,"1. Investment
-2. Oil/Gas Industry"
-http://www.watsco.com,"Informational/News Website
-Online Shopping Website"
-http://www.xyleminc.com,"Informational/Educational
-
-Gaming"
-http://www.carlyle.com,"Investment 
-Finance"
-http://www.timken.com,"Manufacturing
-Engineering"
-http://www.leggett.com,"Entertainment
-Media/News"
-http://www.saic.com,"1. Defense/Security
-2. Technology"
-http://www.meritor.com,"Transportation
-Industrial Equipment/Components"
-http://www.polyone.com,Chemicals/Manufacturing
-http://www.commscope.com,"Telecommunications/Electronics 
-Technology"
-http://www.consolenergy.com,"Energy/Coal Mining Industry
-Business/Company Profile"
-http://www.usg.com,"Construction Materials/Building Supplies 
-Architecture/Engineering"
-http://www.lexmark.com,"Office Supplies
-Electronics"
-http://www.brinks.com,Finance/Online Shopping
-http://www.hpinc.com,"E-commerce
-Informational website"
-http://www.aam.com,"1. Business
-2. News/Publishing"
-http://www.oceaneering.com,Business/News
-http://www.crowncastle.com,"Telecommunications/Networking, Technology/IT Services"
-http://www.cit.com,Finance/Banking or Financial Services
-http://www.cabotcorp.com,"Chemicals/Industries 
-Company Profile"
-http://www.countryfinancial.com,"Insurance
-Finance"
-http://www.bigheartpet.com,"E-commerce
-Entertainment"
-http://www.fossilgroup.com,"1. Fashion
-2. Business/Corporate"
-http://www.urbanoutfittersinc.com,"Fashion/E-commerce
-Corporation/Company Website"
-http://www.lennoxinternational.com,"Entertainment
+https://aakaarbiotech.com,Scientific/Biotechnology
+https://aai.org,Scientific Organization
+https://aakashdigital.com,Education
+https://aaj.tv,News/Pakistan News
+https://aakashg.com,"Product Management, Career Development"
+https://aakashhospital.com,"Healthcare, Medical Services"
+https://aakashhealthcare.com,Healthcare
+https://aakinshin.net,Statistics
+https://aalnk.com,Education
+https://aaknvsnhpci.com,"Travel
+Outdoor Recreation"
+https://aakvatech.com,"IT Consulting
+Technology Services"
+https://aak.me,E-commerce/Domain Marketplace
+https://aalto.fi,"Education/University
+Academic/Research"
+https://aala.com,E-commerce/Fashion
+https://aakashnamkeen.com,Food/E-commerce
+https://aalbc.com,Literature/Books
+https://aalpha.net,"Web Development Company
+Technology Services Provider"
+https://aalacabs.com,"Transportation, Travel"
+https://aalap.com,E-commerce/Electronics
+https://aalberts.com,Industrial
+https://a-alvarez.com,Outdoor/Hunting/Equestrian
+https://aalbioresearch.com,Scientific Research
+https://aalamroots.com,Health & Wellness
+https://aamakoachar.com,Food/Restaurant
+https://aalco.int,International organization
+https://aambyvalley.com,"Hotel/Resort
+Tourism"
+https://aamc.org,Health/ Medicine Education
+https://aamconsulting.eu,"Consulting, Development"
+https://aamjournal.in,Medical Journal
+https://aamolya.com,"Jewelry
+Fashion Accessories"
+https://aanavandi.com,News/Community
+https://aami.org,Medical/Health Technology Association
+https://aaonline.blog,Blogs & forums
+https://aamsco.com,Lighting/electronics
+https://aaojournal.org,Scientific/Organizational Journal
+https://aandt.store,E-commerce/Jewelry
+https://aanysculture.com,E-commerce/Online Shopping
+https://aantourism.com,"Tourism, Travel"
+https://aanganresortmandawa.com,Hotel/Resort
+https://aapa.org,Professional Organization
+https://aaoinfo.org,"Health
+Dental Care"
+https://aaos.org,Medical Organization
+https://aapfgkmi.com,"Technology, Innovation"
+https://aaplumbing.com,Home Services/Plumbing
+https://aapkieducation.com,Education/Online Learning
+https://aappublications.org,Medical/Scientific Publication
+https://aapkabazar.co,E-commerce/Electronics
+https://aapkapainter.com,"Interior Design/Architecture, Home Services"
+https://aapkikhabar.com,"News, Entertainment"
+https://aaradhyaa.in,"Fashion, E-commerce"
+https://aapm.org,"Medical Association/Professional Organization
+Scientific Research"
+https://aapkaconsultant.com,"Legal Services, Business Consulting"
+https://aapc.com,Medical Education
+https://aaps.space,Astrology/Horoscope
+https://aaple.com,"Electronics/E-commerce
+Computers"
+https://aaptprep.com,Education
+https://aaqr.org,"Scientific Journal/Research Institution
+Academic/Organizational Website"
+https://aappd.org,Healthcare Non-Profit Organizations
+https://aaptaxlaw.com,Law/Finance
+https://aarambhindia.org,"Non-Profit Organization
+Child Welfare"
+https://aaraorganics.com,Beauty/Personal Care
+https://aarc.org,Healthcare/Professional Organization
+https://aardea.com,Home & Kitchen
+https://aaresearchindex.com,Education/Research Library
+https://aaronson.org,"Person's Website
+Technology-related Website"
+https://aareurology.sg,Health/medicine
+https://aaronblondeau.com,"Technology, Programming"
+https://aaronandclaire.com,Cooking/Blog
+https://aarjavee.com,Jewelry/Earring
+https://aaronswansonpt.com,"Health/Wellness, Personal Development"
+https://aaritari.com,Fashion/E-commerce
+https://aarfragrances.com,Perfume/Eau de Cologne
+https://aarushiagencies.in,"Manufacturing/Industry, Business/Economy"
+https://aarhat.com,"Academic/Research, Education"
+https://aaroananda.com,"Entertainment
 News"
-http://www.moodys.com,"Entertainment
-E-commerce"
-http://www.alliantenergy.com,"1. Online shopping
-2. E-commerce 
-3. Retailer
-4. Online marketplace"
-http://www.hubbell.com,"News/Blog
-Entertainment"
-http://www.oaktreecapital.com,"Finance
-Investing"
-http://www.crbard.com,"E-commerce
-News/Informational"
-http://www.unisys.com,"News
-Informational/Educational"
-http://www.churchdwight.com,Personal Finance/Business
-http://www.ae.com,"Entertainment
-Information website"
-http://www.patenergy.com,"Energy/Oil & Gas Industry
-Business/Services"
-http://www.landstar.com,"Transportation/Logistics
-Freight/Shipping"
-http://www.urc.com,"Energy/ Petroleum industry, Business/ Corporation"
-http://www.sungard.com,Informational/Commercial
-http://www.iac.com,"Technology/Investment 
-Business"
-http://www.parpacific.com/,"Energy/Oil and Gas
-Business/Investment"
-http://www.chiquita.com,"Food
-Fruits"
-http://www.wmg.com,"1. Online Advertising
-2. E-commerce/Shopping Website"
-http://www.sabre.com,"Informational/News/Education Website 
+https://aarize.in,Real Estate
+https://aaryanholidays.com,Travel Agency/ Tourism Website
+https://aarweb.org,Academia/Religion
+https://aasaan.app,"E-commerce
 
-Advertising Website"
-http://www.craneco.com,"Aerospace Engineering
-Industrial Equipment Manufacturing"
-http://corporate.univision.com,"Media/Entertainment
-Business"
-http://www.huntington.com,"Banking/Financial Services
-Personal Finance"
-http://www.tribunemedia.com,"1. Business
-2. Media/Entertainment"
-http://www.dentsplysirona.com,"Informational/Educational
-Marketing/Advertising"
-http://www.archrock.com/,"1. Energy/Oil and Gas
-2. Employment/Job Search"
-http://www.brinker.com,"1. Food/Restaurant
-2. Business/Employment"
-http://www.exide.com,"1. Automotive
-2. Energy Storage"
-http://www.analog.com,"Informational/Educational 
-Online Shopping"
-http://www.bonton.com,"Home Decor
-Furniture"
-http://www.kennametal.com,Business or E-commerce
-http://www.scansource.com,"B2B Technology/IT Services
-Electronic Commerce (E-commerce)"
-http://www.wolverineworldwide.com,"Fashion/Consumer Goods
-Corporate/Employer Branding"
-http://www.stancorpfinancial.com,Finance/Business
-http://www.anteroresources.com,Energy/Investment
-http://www.dstsystems.com,Informational/Educational
-http://www.hyster-yale.com,"Business
-Investment"
-http://www.vno.com,"1. Business
-2. Real Estate
-3. Sustainability/Environment"
-http://www.teradata.com,"Data Analytics
-Business Solutions"
-http://www.ufpi.com,"Business/Company Information
+Software/E-commerce platform"
+https://aashirwadjewellers.com,"E-commerce
+Jewelry"
+https://aashakiranivf.com,Healthcare
+https://aasaneducation.com,Economics
+https://aashirs.com,E-commerce/Jewelry
+https://aashwastujjain.com,Hinduism/Astrology
+https://aaskplanets.com,Astrology/Horoscope
+https://aasthakidneyhospital.com,Healthcare/Medical
+https://aashrayaaprojects.com,Real Estate
+https://aasthaalumina.com,"1. Construction
+2. Architecture"
+https://aastrika.org,"Healthcare, Non-Profit"
+https://aasthaenviro.com,Engineering/Manufacturing
+https://aasld.org,Medical
+https://aatbio.com,"Biotechnology
+Research Tools"
+https://aasm.org,Healthcare/medicine
+https://aathavanitli-gani.com,"Hinduism, Spirituality"
+https://aasthashop.in,E-commerce
+http://saatchiart.com,Art/E-commerce
+https://aatdl.xyz,Anime/Manga
+https://aathun.com,"Music/Arts, Non-Profit"
+https://aattgames.com,"Gaming, Storage"
+https://aatyc.in,Health
+https://aau.dk,Education/University
+https://aavitech.in,Technology/Computer
+https://aauni.edu,Education
+https://aavenir.com,Software/Technology
+https://aaukarate.org,Sports/Organization
+https://aau.in,Agriculture/Education
+https://aatmnirbhar.com,Education/Educational Services
+https://aavana.in,"Human Resources (HR) Technology
+Digital Transformation"
+http://saatviksilver.com,Jewelry/E-commerce
+https://aautomate.com,Business/Technology
+https://aavaranaa.com,E-commerce/Fashion
+https://aavara.shop,Fashion/E-commerce
+https://aawaajnews.com,News
+https://aaxxgames.com,"Based on the provided URL, I would categorize this website as:
 
-Employment/Job Opportunities"
-http://www.armstrong.com,"Home Improvement
-Building Materials"
-http://www.hcc.com,"E-commerce
-Marketing/Advertising"
-http://www.moog.com,"Electronics/Instrumentation
-Business/Electronic Music"
-http://www.concho.com,"Entertainment, Information/News"
-http://www.nortekinc.com,"1. HVAC (Heating, Ventilation, Air Conditioning)
-2. Industrial/Commercial Solutions
-3. Manufacturing
-4. Engineering Services 
-
-All are possible but most probable would be HVAC and Industrial/Commercial Solutions."
-http://www.hologic.com,"Healthcare/ Medical Devices 
-
-Biotechnology"
-http://www.schnitzersteel.com,"Online Retail/E-commerce, News Website"
-http://www.stericycle.com,"Healthcare/ Medical Services
-Business/ Corporate Services"
-http://www.corp.aol.com,"Technology, Business/Finance"
-http://www.panerabread.com,"Food/Fast Food
-Restaurant"
-http://www.tetratech.com,"Engineering/Consulting
-Environmental/Sustainability"
-http://www.vishay.com,"Electronic Components
-Electronics Industry"
-http://www.enersys.com,"Online Shopping
-E-commerce Website"
-http://www.mt.com,"Scientific Equipment/Medical Supplies
-Industrial Technology"
-http://www.momentive.com,"Chemicals/Industry
-Business"
-http://www.donaldson.com,"News/Media
-E-commerce/Online Shopping"
-http://www.eqt.com,"Energy/Company Information
-
-News/Investment"
-http://www.equifax.com,"Credit Monitoring
-Financial Services"
-http://www.bostonproperties.com,"Real Estate
-Corporate/Commercial Property Development"
-http://www.cimarex.com,"1. Energy
-2. Business/Industry 
-3. Job/Career"
-http://www.postholdings.com,"1. Business
-2. Food/Consumer Goods"
-http://www.denbury.com,Energy/Oil and Gas
-http://www.ferrellgas.com,"Energy/Propane Company
-Job Portal"
-http://www.take2games.com,"1. Gaming
+1. Online Games
 2. Entertainment"
-http://www.rpc.net,"Oil and Gas
-Business"
-http://www.insperity.com,"E-commerce
-Online Shopping"
-http://www.muellerindustries.com,"1. Industrial
-2. Manufacturing"
-http://www.hhgregg.com,"Gaming
-Electronics"
-http://www.aosmith.com,"Online marketplace 
-Advertising/Marketing agency"
-http://www.shos.com,"Shopping
-Health & Beauty"
-http://www.aointl.com,"Business/Company Information
-Agricultural Industry"
-http://www.newmarket.com,"Business
-Finance"
-http://www.belden.com,Entertainment/Media
-http://www.graniteconstruction.com,"Construction
-Engineering/Architecture"
-http://www.ahgp.com,Energy/Finance
-http://www.edwards.com,"Advertising
-E-commerce"
-http://www.skyworksinc.com,"News Website
-Online Shopping Website"
-http://www.hawaiianairlines.com,"Travel
-Tourism/Travel Agency"
-http://www.triplesmanagement.com,"E-commerce
-Informational"
-http://www.partycity.com,"Party Supply
-Online Retail"
-http://www.hcpi.com,"Real Estate
-Healthcare"
-http://www.dyn-intl.com,"1. Business
-2. Technology/Science"
-http://www.ciena.com,"Government/Politics
-Telecommunications"
-http://www.parexel.com,"Shopping
-Online Shopping"
-http://www.brocade.com,"1. Technology
-2. Electronics"
-http://www.ocwen.com,"1. Finance
-2. Real Estate"
-http://www.amcnetworks.com,"1. Entertainment
-2. Media/TV Show"
-http://www.kemper.com,"E-commerce
-Privacy policy/General terms of use"
-http://www.symetra.com,"Insurance
-Financial Services"
-http://www.towerinternational.com,"Manufacturing
-Automotive"
-http://www.chemtura.com,"Chemical industry
-Materials science"
-http://www.trinet.com,"Human Resources
-Finance/Accounting 
-HR Technology/SaaS 
-Employment/Job Search"
-http://www.trueblue.com,"Human Resources/Staffing Agency
-Employment Website"
-http://www.kodak.com,"Entertainment
-News"
-http://www.gbrx.com,Transportation/Manufacturing
-http://www.hain.com,"E-commerce
-Online shopping"
-http://www.american-equity.com,"Finance
-Insurance"
-http://www.diplomat.is,Healthcare/Pharmaceuticals
-http://www.idexcorp.com,"1. Online Marketplace
-2. E-commerce Website"
-http://www.nationstarmtg.com,Finance/Mortgage/Banking
-http://www.allisontransmission.com,Automotive Manufacturing/Industrial Equipment
-http://www.intuitivesurgical.com,International organization
-http://www.semgroupcorp.com,"Energy/Commodity Trading
-Oil and Gas Company"
-http://www.wasteconnections.com,"Waste management/Environmental services 
+https://aaxdetect.com,Domain Sales/Real Estate
+https://aayatjwellery.com,Islamic Jewelry
+https://aaxz.com,Financial/Accounting
+https://aawningsnsigns.com,"Home Improvement
+Construction"
+https://aayaymvsvqi.com,"Travel, Tourism"
+https://aaxia.io,Business/Finance
+https://aaww.org,"Literature, Non-profit organization"
+https://aawsat.com,"News Website
+Middle East News Website"
+https://aazzgames.com,"Based on the provided URL, the most probable categories are:
 
-Utility provider"
-http://www.harsco.com,"Environmental Services
-Sustainability"
-http://www.khov.com,"Housing/Home Building
-Real Estate"
-http://www.aboutwendys.com,"Food/E-commerce
-Retail/Food"
-http://www.aarcorp.com,"E-commerce
-Entertainment"
-http://www.selective.com,Finance/Insurance
-http://www.synopsys.com,"Online shopping
-E-commerce platform"
-http://www.universalamerican.com,"Online Casino
-Gaming Website"
-http://www.etrade.com,"Financial Services
-Investment Platforms"
+1. Games
+2. Online Games"
+https://aayushwellness.com,"Health and Wellness, E-commerce"
+https://aayushveda.in,"Health/Wellness, Lifestyle"
+https://aayushyamaanbhav.com,Spirituality/Hinduism
+https://abacus.ai,"AI/Technology, Business"
+https://aayushhometutors.com,"Education, Education Services"
+https://abaca.in,Home & Garden Furniture/E-commerce
+https://abaanconsultants.com,"Training/Consultancy
+Education"
+https://aayushcs.com,"Personal Website
+Full Stack Developer"
+https://abahlali.org,Social Movement/Non-Governmental Organization (NGO)
+https://abaenglish.com,EDUCATION
+https://abadis.ir,"1. Educational
+2. Reference"
+https://abacusdx.com,Medical/Healthcare
+https://abakcus.com,Science
+https://abacusemedia.com,"Technology
+Software/Services"
+https://abajournal.com,Legal News/Information
+https://abandonwaregames.net,Gaming/Entertainment
+https://abardon.com,Role-Playing Game (RPG)
+https://abbaspc.net,"News/Informational, Educational"
+https://abarrot.com,E-commerce
+https://abaslot42.com,Gaming/Online Lottery
+https://abbayesu.com,Religious organization/Christian ministry
+https://abbapantamidata.com,Telecommunications/E-commerce
+https://abashonmela.pro,Finance/ Banking
+https://abbasitvhd.com,"Cricket, Football"
+https://abayakart.com,Fashion/Electronics
+https://abberantdisheartenbandage.com,"E-commerce
+Music/Entertainment"
+https://abberantpawnpalette.com,Fashion
+https://abbreviations.com,"1. Reference
+2. Education"
+https://abbl.com,Banking
+https://abbvie.com,Healthcare
+https://abc22media.com,Celebrity News/Gossip
+https://abbythepup.com,"Education, Resources"
+https://abbyy.com,Software/Technology
+https://abcauto.in,Automotive News
+https://abcam.com,Scientific/Research
+https://abcdindex.com,Research/Science
+https://ab.chat,E-commerce/Domain Sales
+https://abchlggtrd.com,Travel/Adventure
+https://abcey.com,Event Planning
+https://abcdeelearning.com,Education/Parenting
+https://abcdpdf.com,"1. Online Tools
+2. PDF Editor"
+http://sabcnews.com,News
+https://abcbuildcon.in,Real Estate
+https://abcinemasny.com,Movies
+https://abcchildrensdentistry.com,"Healthcare, Pediatrician"
+https://abcmouse.com,"Education, Children's"
+https://abclawcenters.com,Health Law
+https://abcbirds.org,"Environment/Wildlife Conservation
+Education"
+https://ab.co,News/Information Website
+https://abcnews.com,News
+https://ab.com,Financial Services
+https://abcotvs.com,"News, Local News"
+https://abcom.in,Technology/E-commerce
+https://abcpatoy.com,"Affiliate Marketing
+Digital Marketing"
+https://abcsinsights.com,Marketing
+https://abcsupply.com,E-commerce
+https://abcteach.com,Education
+https://abcsubmit.com,"1. Form builder
+2. E-commerce platform"
+https://abdicatebirchcoolness.com,Technology/E-commerce
+https://abcya.com,Website: Education/Educational Games
+https://abdkdnfmc.com,Fiction/Humor
+https://abdellatif-physics.com,Physics
+https://abctechnolab.com,"Environmental/Conservation Services
+Engineering/Laboratory Services"
+https://abcstudylinks.com,Education/Study Abroad Agency
+https://abcuniformstore.com,"E-commerce
+Uniforms"
+https://abc.ru,E-commerce/Shopping
+https://abdobooks.com,Education
+https://abdpost.com,"Magazine/News, Entertainment"
+https://abdominalkey.com,HEALTH/ MEDICINE
+https://abduzeedo.com,Graphic Design
+https://abdullah-al-sahil.com,Celebrity News/Entertainment
+https://abdolrauf.com,Digital Marketing Consulting
+https://abeautifulgreen.com,Environment/Conservation
+https://abecindonesia.org,Conference Education
+https://abendblatt.de,News/Media
+https://abebooks.de,Antiquarian Books
+https://abelid.com,Construction/Building Materials
+https://abebooks.com,"Books & Literature, Online Shopping"
+https://abeebyekeen.com,Biography or Academic Professional Website
+https://abellalist.com,Pornography
+https://abelard.org,Philosophy/Intellectual/Essays
+https://abeautifulplacetogetlost.com,"Hotels
+Event Planning"
+https://abele-optik.de,Optical/Eyewear Retail
+https://abeomics.com,"Biotechnology
+Research Tools"
+https://abercrombie.com,Fashion
+https://abesit.in,"1. Education
+2. University"
+https://abetterinternet.org,"Nonprofit organization
+Internet security"
+https://abhahealthcard.com,Health
+https://abgram.in,Scholarship/ Education
+https://abfrl.com,Fashion/ Retail
+https://abgamego.com,Games
+https://abhahealth.com,Health
+https://abg-geosynthetics.com,Engineering/Construction
+https://abhayapuricollege.in,Education/News
+https://abhibus.com,Travel
+https://abhiandroid.com,Education/Technology
+https://abhaytradingacademy.com,Finance/Education
+https://abhijitchakrabarti.com,Architecture
+https://abhijithpa.in,"Personal/Blog, Technology"
+https://abhimanu.com,"Education, Business Services"
+https://abhijitbhaduri.com,Business/Leadership
+https://abhilojob.in,Job Portal
+https://abhijna-emuseum.com,Museums
+https://abhinavrajesh.com,Developer's Portfolio
+https://abhinavmishraofficial.com,"E-commerce
+Fashion"
+https://abhimanuias.com,Education
+https://abhinav.com,Immigration Services
+https://abhisshektewari.com,"Real Estate Website
+ Property Agent Website"
+https://abhishekdeepak.com,Wildlife/Travel
+https://abhivyakti-hindi.org,Literary or Artistic Website
+https://abhitaknews.com,News
+https://abhithory.com,"Technology, Development"
+https://abhitunes.in,"Music, Piano Notes"
+https://abhiwan.com,Gaming
+https://abhy.me,"Technology, Blogging"
+https://abhiramayurveda.in,Health/Wellness
+https://abicart.com,E-commerce/E-business
+https://abhiyandaily.com,Finance/Economy News
+https://abidingwordtx.org,Christianity/Religion
+https://abidareauthor.com,Author/Writer
+https://abigailcarvalho.com,Personal/Blog
+https://abhyasonline.in,"E-Learning Platform
+Education Website"
+https://abigailclothings.com,Fashion
+https://abhyamalik.com,Adult Services
+https://abilac.org,"1. Educational
+2. Cultural"
+https://abilitymagazine.com,"Entertainment/Media
+Disability/Inclusion"
+https://abinitiomp.org,"Physics
+Research"
+https://abine.com,"Technology/E-commerce
+Software/Security"
+https://abitzu.com,E-commerce software
+https://abilogic.com,"Business Directory, Web Directory"
+https://abishkking.com,"Health/Fitness
+Wellness"
+https://abkidslifecoach.com,"Family & Parenting, Self Improvement"
+https://ablaze.one,Technology/Software
+https://abizerindia.com,"Engineering
+Industrial/Energy"
+https://abiodunayobami.com,"Person/Profile
+Entrepreneur/Business"
+https://abjav.com, Porn/JAV
+https://abirpothi.com,Art/Architecture
+https://abjav.tube,Adult/Japanese Porn
+https://able.ac,Education
+https://ablo.live,"Social Networking, Dating"
+https://ableton.com,"Artists, Music"
+https://ablecdp.com,"Marketing/Advertising
+Technology"
+https://ableplaying.com,Entertainment/Games
+https://ablic.com,"Electronics/Technology
+Industrial/Manufacturing"
+https://ablogcalledwanda.com,Blogs & forums
+https://ablybot.com,E-commerce/ Technology
+https://ablebits.com,"Excel, Technology"
+https://ablosconference.com,Health and Wellness
+https://ablestar.app,"E-commerce Software
+Productivity Tools"
+https://abmgood.com,E-commerce/Online Shopping
+https://abmindia.com,"Software/Technology
+IT/Electronics"
+https://ablyft.com,Software/Technology
+https://ablyglossmartyr.com,"E-commerce
+Blog/Generic Information Website"
+https://abmining.org,Financial Service/Trading
+https://abmining.vip,"E-commerce
+Finance"
+https://abmunis.ca,"Government/Non-Profit Organization
+Municipal/Local Government"
+https://abmining.pro,"Financial Services
+Cryptocurrency Trading"
+https://ably.com,"Technology
+Cloud Computing"
+https://ably.io,Technology/Software
+https://abnb.me,Real Estate/Travel
+https://ably-realtime.com,"Technology
+Marketing"
+https://aboardamusement.com,Digital Rights Management (DRM) or Copyright Management
+https://abnewswire.com,News
+https://aboardstepbugs.com,"E-commerce
+Technology"
+https://aboluowang.com,News/Blog
+https://abola.pt,"Sports Website
+Entertainment Website"
+https://abookapart.com,Books
+https://aboriginal-bark-paintings.com,Art/Education
+https://abonnementtripleexplore.com,"E-commerce
+Travel"
+https://abookandahug.com,Children's Literature/Book Recommendations
+https://abotify.com,Technology/Advertising
+https://aboutads.info,"Based on the provided text, I would categorize this website as:
+
+1. Advertising
+2. Technology/Internet"
+https://aboundplausibleeloquent.com,Technology/Computing
+https://aboriginesprimary.com,Education
+https://aboutcancer.com,Health/ Medicine
+https://aboutamazon.com,E-commerce/Technology
+https://aboutads.net,Advertising
+https://aboutbajajfinserv.com,Financial Services
+https://aboutamazon.in,"Workplace/Employment, News/Media"
+https://aboutcivil.org,Civil Engineering
+https://aboutaustralia.com,"Travel Agency
+Tourism Information"
+https://about.google,"Technology
+Company/Corporate"
+https://aboutespanol.com,"Education/Personal Development, Lifestyle/Hobbies"
+https://aboutibs.org,Health
+https://aboutenglishlanguage.com,English Language Learning/Education
+https://aboutlowcarbfoods.org,"Health/Wellness, Food"
+https://aboutkidshealth.ca,Children's Health Education
+https://about-drinks.com,"Food/Beverage, Business/Economy"
+https://about-history.com,History
+https://abouther.com,"Beauty, Entertainment"
+https://aboutpathankot.com,Local Business Directory or Online Classifieds
+https://about.me,"Professional Networking
+Online Presence"
+https://aboutreact.com,Programming/Tutorials
+https://aboutthepeople.in,Business/Finance
+https://aboutyou.de,"E-commerce
+Fashion"
+https://aboutyou.com,"E-commerce
+Fashion"
+https://aboutwayfair.com,"E-commerce
+Retail"
+https://abouttill.com,"Technology
+Search engine"
+https://aboutyou.bg,Fashion
+https://abouttheglow.com,Beauty
+https://aboutyou.nl,Fashion/E-commerce
+https://aboutyou.ie,Fashion E-commerce
+https://aboutyou.dk,Fashion/E-commerce
+https://aboutyou.fr,"E-commerce
+Fashion"
+https://about.youtube,"Entertainment, Media"
+https://aboutyou.pt,Fashion/E-commerce
+https://above.com,Domain Registration/Marketplace
+https://aboveaveragefinallycast.com,"Entertainment, Technology"
+https://abovethehimalaya.com,"Tourism
+Travel Agency"
+https://aboveallmasonry.com,Home improvement/Construction
+https://abovearth.co,E-commerce
+https://aboutyou.se,Fashion/E-commerce
+https://abovethelaw.com,Legal News
+https://abpkhabar.in,"Hindi News, Finance"
+https://abp.in,News/Media
+https://abpqtaghvrf.com,"Travel, Adventure"
+https://abptestpages.org,"1. Technology
+2. Software"
+https://ab.pl,"E-commerce/Services
+Information/Technology"
+https://abralytics.com,"Digital Marketing
+Software"
+https://abprintshop.com,"Entertainment
+Adult"
+https://abrinternationaljournal.org,Scientific/Research Journal
+https://abroaducate.com,"Education, Scholarships"
+https://abrevo.com,"Business Consulting
+Services Provider"
+https://abplive.in,News
+https://abrankings.com,SEO
+https://abraxasenergy.com,Energy Consulting
+https://abrisatechnologies.com,"1. Technology
+2. Manufacturing"
+https://abronexports.com,Medical Equipment/Scientific Instruments
+https://abrosshoes.com,"E-commerce, Fashion"
+https://absentairport.com,Digital Rights Management (DRM)
+https://abruz.xyz,"Blog, Website"
+https://abruptcooperationbummer.com,Technology
+https://absfujitsu-general.com,"Based on the provided content, the most probable category for this website is:
+
+1. HVAC (Heating, Ventilation, and Air Conditioning)
+2. Construction/Engineering"
+https://absinthe.network,"Blockchain
+Web3"
+https://abrsm.org,Music Education
+https://absatz.media,News/Politics
+https://absolut.com,Drinks
+http://sabsmkultikri.org,"Education, University"
+https://absplko.in,Academia/Education
+https://absorbluck.tech,Web Hosting
+https://absolute-virtue-24b-09.top,Domain Registration/Expired Domains
+https://absolute-virtue-24b-02.top,Domain Registration/Whois Service
+https://absolute-virtue-24b-05.top,Domain registration/WHOIS lookup
+https://absolutedental.com,Healthcare/Dentistry
+https://absolutebarbecues.com,Food/Restaurant
+https://absolutegamez.com,"Entertainment/Gambling
+Online Games"
+https://absolute-refined.top,"Advertising/Marketing
+Web Services"
+https://absoluteafrica.com,"Travel Agency
+Tourism"
+https://abstractapi.com,"Technology/Programming
+API/Middleware"
+https://absorbia.in,Home Goods/Household Products
+https://absolute.com,Business/Technology
+https://absolute-aromas.in,Health & Beauty
+https://absolutehealthparis.com,"Healthcare
+Medical"
+https://absolutestudy.com,Education
+https://abstractarchives.com,Publishing
+https://absoluteanime.com,Entertainment/Anime
+https://absolutely-french.eu,"Expatriate Services
+HR Consulting"
+https://absolutepavement.com,Construction/Contracting
+https://absoluteinternship.com,Education
+https://abstractclasses.in,Education
+https://absolute-english.com,English Language Learning
+https://abt.com,"1. Science
+2. Technology"
+https://abuchelrou.com,"Personal Stories/Biographies, Inspirational/Motivational"
+https://abtesting.ai,"Marketing
+Digital Marketing"
+https://abuaminaelias.com,Islamic Studies
+https://abtvn.com,"Biotechnology, Business/Economy"
+https://abtaba.com,"Healthcare, Education"
+http://sabtechz.com,E-commerce/Electronics
+https://abuse.ch,Security
+https://abs.xyz,"Blockchain Technology
+Technology Company"
+https://abtri.in,E-commerce/Chemicals
+https://abusandeep.com,Fashion/E-commerce
+https://abuissa.com,Business/Company
+https://abujaelectricity.com,Electricity/Utility
+https://abukhadeejah.com,Islamic Scholarship
+https://abtecbt.com,"Based on the provided content, the most probable categories are:
+
+1. Technology
+2. Construction/Building"
+https://abujacontinental.com,Hotel/Travel
+https://abtasty.com,"Digital Marketing
+Technology"
+https://abuniverse.com,"Toys & Games
+Animals"
+https://abusylifewithrio.com,Beauty/Fashion
+https://abvp.org,Organizational/Non-Profit
+https://abv.bg,"1. News
+2. Lifestyle"
+https://abvimas.org,"Travel
+Education"
+https://abvin.in,Home Decor/Hardware
+https://abysmstudios.com,E-commerce/E-commerce Platform
+http://sabyasachi.com,Fashion/E-commerce
+https://abwpstaging.com,Healthcare/Wellness
+https://abxnewsletter.com,News
+https://abwu.org,玄幻、都市
+https://abwe.ca,"Based on the URL, I would categorize this website as:
+
+* Charity
+* Non-profit"
+https://abwe.org,"Religious organization
+Non-profit organization"
+https://abxxx.com,PORN
+https://abxxx.tube,"Adult, Porn"
+https://abyssale.com,"Design
+Marketing"
+https://abyasiflix.xyz,Movie/Entertainment
+https://abytecloud.baby,"Error Message
+Hosting/Websites"
+https://abyssrift.com,Gaming
+https://abzkyjaqloozw.top,E-commerce/Domain Registration
+https://abzorb.in,"Health/Fitness, Personal Care"
+https://acacdn.com,Content delivery
+https://abysscdn.com,Content delivery
+https://ac-ada-ca.com,"Digital Agency
+Technology/Software/E-commerce"
+https://ac6ruv8t.ru,Computer Networks/Internet Technology
+https://acadanow.com,Education
+https://acacia.design,"Marketing/Advertising Agency
+Design/Graphic Design"
+https://acaai.org,Health
+https://acad-block.com,"Architecture, CAD Design"
+https://academiadeapuestasparaguay.com,"Sports, Entertainment"
+https://acadderm.com,"Health, Medical Services"
+https://acadboost.com,Education
+https://academia.dk,"Medical History
+
+Academia"
+https://acadbuddy.com,Education
+https://acadecraft.com,"E-learning, Education"
+https://acadawngroup.com,Self-help/Education
+https://academia.edu,Education
+https://academial.ng,Education/Education Resources
+https://academically.com,Medical/Health
+https://academicjournals.org,Academics/Research
+https://academic-conferences.org,"Academic Publishing
+Education"
+https://academic-publishing.org,Academia/Education
+https://academicjobsonline.org,"Academic Jobs & Education Website
+Employment Services"
+https://academicearth.org,"1. Education
+2. Online Learning"
+https://academicbard.com,Education/Research
+https://academicradiology.org,"Academic Website
+Journal/ Publication"
+https://academichelp.net,Education
+https://academicmarker.com,Education
+https://academicmed.org,Medical Journal
+https://academicgpt.net,"Academic assistance
+Research writing tools"
+https://academickids.com,Education
+https://academicresearchjournals.org,Academic Journals
+https://academicpositions.com,Academic/Education
+https://academicaffairs.in,Education
+https://acadiainsurance.com,"Financial Services
+Insurance"
+https://academylogin.org,Professional Association/Organization
+https://academyscipro.org,"Education, Security"
+https://academypublication.com,Academics/Publishing
+https://academind.com,"E-learning/Online Courses, Education"
+https://academyleaders.com,Education/Training
+https://academo.org,"Engineering, Education"
+https://academysgeniusswordmaster.us,Manga/Manhwa/Manhua Website
+https://academicsconference.com,"Academics/Research
+Conference/Organization"
+https://academyofhappylife.com,Self Improvement/Motivation
+https://academie-sciences.fr,Scientific Organization
+https://academy-e.com,"E-commerce
+Education"
+https://academicstrive.com,Scientific Journals/Publishing
+https://acadlog.com,EDUCATION
+https://academor.com,"Education, Career Development"
+https://acade.studio,Art/Design
+https://academyoflearning.com,"1. Education
+2. Career Development"
+https://acadflix.com,Education/Educational Services
+https://academyofaccounts.org,"E-learning, Education"
+https://academicworldresearch.org,"Academic Website
+Education/Research Conference Directory"
+https://academyhub.cz,Event Venue/Conference Center
+https://academieduservice.com,"Business Services
+Consulting Services"
+https://academysmart.com,"Software Development
+IT Consulting"
+https://academyforsportsdentistry.org,"Health Organizations
+Professional Associations"
+https://acadlore.com,Scientific/Research Journal or Online Academic Platform
+https://acadmin.net,"Education/Training
+E-learning Platform"
+https://acadpubl.eu,"Education, Academic"
+https://acblnk.com,"Error Page
+Information/Documentation"
+https://acad-pubs.com,Academic Journal
+https://acaps.org,Humanitarian/Non-profit
+https://acapros.fr,Financial Trading/Investment
+https://accaglobal.com,Business/Finance
+https://acadrespub.com,"Academic Publishing
+Research"
+https://acavent.net,Travel
+https://acareindia.com,Healthcare/Orthopaedics
+https://acca.it,Construction/Architecture Software
+https://acasa.ro,News/Society
+https://acast.com,Podcasting
+https://acca.org,Business/Industry Association
+https://acceleride.com,"Car dealership
+Automotive"
+https://accelerator.net,Logistics/E-commerce
+https://acceleratron.in,"IT Consulting
+Digital Agency"
+https://acca-x.com,Education
+https://accelerocapital.com,Investment/Finance
+https://accasoftware.com,"Software/Technology
+Construction"
+https://acbf-pact.org,Organizations/Non-Profit
+https://acceleratingindiasdevelopment.in,Government/Economic Development
+https://accelinstruments.com,Electronics
+https://acceleratetomb.com,E-commerce
+https://accasia.in,Health
+https://accasia2024.in,Healthcare/medicine conference
+https://accelerationeconomy.com,Innovation/Tech News
+https://accelorindia.com,"1. Technology
+2. Manufacturing"
+https://accendoreliability.com,"Blog/Newsletter, Education"
+https://accentconcept.com,Education/Online Coaching
+https://accelq.com,"1. Technology
+2. Software"
+https://accelerationpartners.com,"E-commerce
+Marketing"
+https://accentdental.care,"Health/Dental Care
+Professional Services"
+https://acceleratorapp.co,"Software/Education
+Business/Startup"
+https://accentledlights.com,Electronics
+https://accentmirror.com,Home Decor/E-commerce
+https://accentsjournals.org,Academia/Education
+https://acceptableads.com,Law Firm
+https://accessibilityserver.org,"Based on the provided URL, I would categorize the website as:
+
+1. Technology
+2. Web Development"
+https://acceptanceathwartwant.com,Technology/Internet
+https://accessengineeringlibrary.com,Engineering/Technology
+https://accessibilityhelper.com,"E-commerce
+Technology"
+https://acceptancerate.com,"Higher Education, Career Development"
+https://accentuate.io,E-commerce Software/E-Commerce Solution
+https://accenture.com,Consulting/Professional Services
+https://accessiblyapp.com,"Accessibility/Disability, Technology"
+https://accepted.com,Education/Consulting
+https://acceptvigorously.com,"Technology
+Email"
+https://access-bg.org,"Scientific/Research Organization, Education"
+https://acceptguide.com,Technology/Computing
+https://acceptmission.com,Innovation/Technology
+https://accessberry.co,"Jewelry
+E-commerce"
+https://accessibleai.dev,"Artificial Intelligence (AI)
+Computer Science"
+https://accessibleweb.com,Technology/Software
+https://accessdoorsandpanels.com,E-commerce/Building Supplies
+https://accesscode.in,E-commerce/Electronics
+https://accessbankplc.com,Banking/Finance
+https://accessmagazine.org,"Transportation, Finance"
+https://accessmezone.com,"Business/Entrepreneurship, Education"
+https://accessoirebyv.in,E-commerce/Phone Accessories
+https://accessorieswaala.com,E-commerce/Electronics
+https://accessorizelondon.in,Fashion Accessories
+https://accessoriesbyrhino.com,Electronics Accessories
+https://accessoires-asus.com,"E-commerce
+Computer Hardware"
+https://accesspgmee.in,Education
+https://accesstonutrition.org,"Health/Organizations, Non-Profit Organizations"
+https://accesspressthemes.com,"Web Development
+E-commerce"
+https://accesstomemory.org,"1. Software
+2. Library/Archives"
+https://accesswire.com,News/Press Release
+https://accesstype.com,Business/Technology
+https://accetedu.in,News/Education
+https://accesstrade.vn,E-commerce/Advertising Agency
+https://accessworld.in,E-commerce/Electronics
+https://acchelp.in,E-commerce/Industry/Trade
+https://accidentallyrussian.com,Entertainment
+https://acclaim.agency,Website development agency
+https://acciomatrix.com,Hiring/Recruitment
+https://accor.com,"Travel
+Business"
+https://accompanimentrealistic.com,"E-commerce
+Technology"
+https://accgroup.vn,Law/Consultancy
+https://accommodationsubsided.com,Travel
+https://accommodateyours.com,"E-commerce
+Travel"
+https://accompanynovemberexclusion.com,E-commerce
+https://accomplicemiracle.com,Technology/Computing
+https://acciojob.com,Education/Educational Technology
+https://accordequips.com,Video Equipment Rental
+https://accomplishedpersuadedprinter.com,Technology
+https://acciona.com,"Infrastructure/Construction
+Environmental/Sustainability"
+https://accommodationforstudents.com,Student Accommodation
+http://saccm.in,Education
+https://accordproject.org,"Technology
+Open-source Software"
+https://accjournal.org,Medical Journal
+https://accountancyindex.com,Finance
+https://acc.org,Healthcare/Medical Organization
+https://accountablehq.com,Healthcare
+https://accountingcoach.com,"Education, Accounting"
+https://account-dorcel.com,Adult Entertainment
+https://accorhotels.com,Hotel/Travel
+https://accountancyknowledge.com,Education
+https://accountingformanagement.org,Education/Finance
+https://accounting.com,"Education, Career"
+https://accountingcapital.com,Accounting
+https://accounting-basics-for-students.com,Education
+https://accountlearn.in,Business/Economy
+https://accountingforeveryone.com,Finance/Accounting
+https://accountingcorner.org,Accounting
+https://accountend.com,Business/Finance
+https://accountingnotes.net,Accounting Education/Resource Website
+https://accountingtools.com,"1. Education
+2. Finance"
+https://accountsdoor.com,"Legal/Privacy, Technology"
+https://accountlearning.com,Entertainment/Games
+https://accoya.com,Manufacturing/Education
+https://accrescent.app,"Technology/Software, Android App"
+https://accp.com,Medical Organization
+https://accretive-networks.net,"Technology
+Company/Industry"
+https://accropolygroup.com,Manufacturing/Education
+https://acctcomputing.com,Conference/Event
+https://accruent.com,Software/Technology
+https://accubate.app,Business/Innovation
+https://accredible.com,"1. Education
+2. Technology"
+https://accp.org,Professional Organization/Non-Profit
+https://accs.edu,Education
+https://accucaptions.com,Finance/Insurance
+https://accrets.com,"IT Services
+Technology"
+https://accudiagnostics.org,Healthcare/Medical Services
+https://accteklaser.com,Manufacturing/Electronics
+https://accscience.com,"Scientific Journal or Publisher
+Academic or Research Institution"
+https://accsell.ir,E-commerce/Electronics
+https://accuratecoal.com,"Digital Rights Management (DRM)
+Legal Information"
+https://accuracyswede.com,"E-commerce
+Technology"
+https://accuratecci.com,"Based on the provided content, I would categorize this website into:
+
+1. Construction
+2. Business/Company"
+https://accuniq.com,"Health/Wellness, Technology/Electronics"
+https://accuradesigner.com,Fashion
+https://accuratelogics.com,"Software/Technology Services
+IT Consulting"
+https://accurate.in,Education/University
+https://accurate.id,Finance/Banking
+https://accu-scope.com,"E-commerce
+Industrial/OEM"
+https://accuratepmr.com,"Finance
+Jewelry"
+https://acdcdn.com,Content delivery
+https://accurex.net,Medical/Healthcare Equipment
+https://accurateshooter.net,"Sports, Technology"
+https://acdsystems.com,Software
+https://accuxel.com,"E-commerce
+Service Provider"
+https://accusoft.com,Technology/Software
+https://acdsee.com,Software/Education
+https://acdlabs.com,Education
+https://acdco.com,Car enthusiast/Auto restoration
+https://acebio.in,Education
+https://acealabama.org,"Charity/Organization
+Education/Training"
+https://aceachievers.in,Education/Educational Institutions
+https://aceblend.com,Health and Wellness
+https://acefaucet.com,Online Faucets/ Cryptocurrency
+https://acelitchi.com,"Error Page
+
+Technical/IT"
+https://acee-india.org,Medical Education
+https://acelioncards.com,Tarot Card/Oracle Reading Website
+https://acegroupindia.com,Real Estate
+https://acelearninghub.com,Medical Education/E-Learning
+https://acefamilydental.com,Healthcare/Dental Care
+https://aceipm.com,Education
+https://acehealthcentre.com,Health/Medical
+https://acemedicaldevices.com,"Medical Devices
+Healthcare"
+https://acemed.net,Education
+https://acemyprep.com,"Education, Consulting"
+https://aceruspharma.com,Medical/Pharmaceutical
+https://acendance.com,Education/Training
+https://acens.com,Technology/IT Service Provider
+https://acepolymersindia.com,Chemical/Plastics
+https://aceracegear.com,E-commerce/Online Shopping
+https://acertb.com,Advertising
+https://acerelectric.in,Automotive/Electric Vehicles
+https://acesgroupindia.com,Real Estate
+https://aceproject.org,"Government/Elections/Politics
+International Organizations"
+https://acepnow.com,Health/Medical
+https://aceorganicchem.com,Education/Science
+https://acesence.com,Business/Leadership
+https://ace.online,Education
+https://acep.org,"Healthcare, Medical Education"
+https://acespace.love,Social Networking/Dating
+https://acer.ac,Education
+https://acer.org,Education
+https://acesinaction.blog,Blogs & forums
+https://aces.edu,Education
+https://ace-pt.org,"Health and Wellness
+Non-Profit Organization"
+https://acethinker.com,Education Technology
+https://acewin.in,"E-learning
+Education"
+https://acevesconstruction.com,Home Services/Construction
+https://acgpubs.org,"Scientific Journals
+Academic Publishing"
+https://acg.rip,Anime/Manga
+https://acesurgery.sg,Medicine/Hospital
+https://acgov.org,Government
+https://acgpublishing.com,Scientific Journal or Academic Publication
+https://acetestravel.com,Tourism/Travel agency
+https://aceternity.com,"Web Development
+Digital Services"
+https://acetechstore.in,E-commerce/Electronics
+https://acgile.com,"Business/Finance, Accounting"
+https://achaea.com,Entertainment
+https://acethehimalaya.com,Travel Agency
+https://acg-world.com,Pharma/Healthcare
+https://acg.edu,Education
+https://aceupdate.com,Architecture/Engineering News or Magazine
+https://achieve.ai,EDUCATIONAL
+https://acheiversorg.com,Recruitment/Job Portal
+https://acharyaindravarman.com,Religion
+https://achetervicto.com,Adult Dating/Entertainment
+https://achecker.ca,"Non-profit organization
+Research institution"
+https://achat.live,Social Networking
+https://achievers.com,"Human Resources
+Technology"
+https://acheron-instruments.com,Medical/Educational
+https://achievement-test.com,Education
+https://achahomes.com,"Home & Garden
+Architecture"
+https://achievable.me,"1. Education
+2. Online Learning"
+https://achievers.es,"E-commerce
+Online Business/Marketing"
+https://achieveweakness.com,Education/Personal Development
+https://achievingthedream.org,Education
+https://achieverslive.es,Event
+https://achillestheheel.com,History
+http://sach.me,Web Hosting
+https://achqmmvfwqd.com,"Fashion, Lifestyle"
+https://achondroplasia-growthcharts.com,Health
+https://achurchforstarvingartists.blog,Blogs & forums
+https://achosenson.com,"Spirituality/Religion
+Astrology"
+http://sachka.ch,Sports/Education
+https://achnet.com,"Professional Development/Coaching
+Education/Employment"
+https://acia.it,Business/Economy
+https://acidpigs.com,"Digital Rights Management, Copyright Protection"
+https://achivr.in,"E-commerce
+Sports"
+https://aci.aero,Transportation/Aviation
+https://acieducation.in,"Education, Training"
+https://acidprolific.com,"E-commerce
+Technology"
+https://ac-illust.com,Stock Photo/Vector Graphics
+https://acidriotmusic.com,Music
+https://ackoassets.com,Insurance
+https://acknowledgementprojects.com,Education
+https://acknowledgement.in,Academia/ Education
+https://acir.org,"Health, Non-profit"
+https://acknowledgementletter.com,Education
+https://acitymap.com,"Graphics/Design, E-commerce"
+https://acingexcel.com,Excel Functions
+https://acjol.org,"Academic/Educational, Journals/Research"
+https://acknowledgementforproject.com,Education/Personal Development
+https://acknowledgementsample.com,Education
+https://acko.com,"Insurance, Finance"
+https://ackinacki.org,Cryptocurrency/Blockchain
+https://acint.net,Website Analytics/Statistics
+https://aclandanatomy.com,Medical Education
+https://ackuwxjbk.com,Travel Blog/Adventure Travel
+https://acimmune.com,"Biotechnology
+Healthcare"
+https://aclanthology.org,Computing/Science
+https://ackyshine.com,"Consulting/Coaching Website
+Professional Services Website"
+https://aclaristx.com,"Healthcare
+Biotechnology"
+https://acleducation.com,Education/E-learning
+https://aclifts.com,"E-commerce
+Industrial/Manufacturing"
+https://aclweb.org,"Academics/Organization
+Science/Technology"
+https://aclsmedicaltraining.com,Health/Education
+https://aclfestival.com,Event/Festival
+https://acls.net,Medical Education
+https://acme.ac,Education
+https://acmarket.net,"Entertainment, Technology"
+https://aclu.org,Organizations/Non-Profit
+https://acls-algorithms.com,Medical/Healthcare
+https://acleddata.com,Research Institute
+https://aclm.in,Education
+https://acls.org,Education/Research Organization
+https://acmegrade.com,"E-learning/Online Education, Career Development"
+https://acmetools.com,E-commerce
+https://acne.org,Health/Beauty
+https://acodedaily.com,"Website: Competitive programming, DSA, Development"
+https://acodez.in,Web Development/Technology
+https://acmlegal.org,Law/LEGAL
+https://acmeresearchlabs.in,"Research, Science/Technology"
+https://acmodasi.com,"Entertainment
+Acting/Modeling"
+https://acmodasi.in,"Entertainment, Job/Opportunity"
+https://acmhn.org,Healthcare
+https://acnextopical.com,Health/Beauty
+https://acmilan.com,Sports
+https://acmeplastics.com,Plastics
+https://acmemills.com,Manufacturing/E-commerce
+https://acontis.com,"Software/Technology
+Computer Hardware"
+https://acog.org,Healthcare
+https://acoi.org,Medical Organization
+https://aconvert.com,Technology/Computing Tools
+https://aconsciousrethink.com,Self-Improvement/Personal Development
+https://a-contresens.net,Travel Blog
+https://acm.org,"Computer Science Organization
+Academic"
+https://acousticalsolutions.com,"1. Technology
+2. Music"
+https://acorn.io,Software Development
+https://acowebscdn.com,Content delivery
+https://acousticguitarforum.com,Blogs & forums
+https://acowale.com,Uncategorized
+https://acousticbridge.com,Music/Electronics
+https://acoustic.com,"Marketing, Technology"
+https://acornlive.com,"1. Education
+2. Professional Training"
+https://acousticbulletin.com,Acoustics
+https://acousticsecotone.in,Acoustic/Industrial Products
+https://acousticy.com,"1. Construction
+2. Acoustics"
+https://acpfinance.net,"Financial Services
+Business Finance"
+https://acpjournals.org,Scientific/Educational
+https://acquiretm.com,"E-commerce
+Business"
+https://acr.app,Software/Technology
+https://acrabstracts.org,Medical/Health
+https://acplm.net,"Construction
+Business/Service"
+https://acquaintedpostman.com,Technology/Internet Services
+https://acqnotes.com,"Government/Military
+Defense"
+https://acquire.com,Business/Finance
+https://acphd.org,Healthcare
+https://acpm.org,Health Education/Professional Organization
+https://acponline.org,Medical Organization
+https://acqux.com,Technology/E-commerce
+https://acquire.io,"Customer Service Software
+Business Solutions"
+http://sacredheartcstsgnr.com,"Education
+School"
+https://acreditta.com,"Education, Professional Development"
+https://acreos.eu,"Training/Education
+Simulation"
+http://sacred-texts.com,"Religion/Philosophy
+Academia/Scholarship"
+https://acrossol.com,Blogging/Content Writing
+http://sacredspirals.com,"Business, Consulting"
+https://acri.ph,Health/Research
+https://acrossinternational.com,"E-commerce
+Technology"
+https://acrop.net,Software/Technology
+https://acrivon.com,Health/Pharma
+http://sacredsoulsschool.in,Education
+https://across.to,Blockchain/Crypto
+https://acrorma.com,"Electronics/Consumer Goods
+Customer Support"
+https://acrobatusers.com,"1. Technology
+2. Software"
+https://acriine.in,E-commerce/Fashion
+https://acsbapp.com,Finance
+https://acsbap.com,"Based on the provided XML file, the most probable categories are:
+
+1. Error
+2. Security"
+https://acscdn.com,Content delivery
+https://actalis.it,Security
+https://actalis.com,Security/Fraud Prevention
+https://acstuff.club,"Gaming, Simulation"
+https://acspublisher.com,Education/Research Journal
+https://acsopenscience.org,Science Organization
+https://acstuff.ru,"Gaming, Car Simulations"
+https://actamedica.org,"Medical Journal
+Scientific Publication"
+https://acsrplwriting.com,"Professional Services
+Education/Training"
+https://acschandwadcollege.com,Education/College
+https://acs.org,"Science Organization
+Professional Association"
+https://acsh.org,Science News/Health
+https://actamedicaportuguesa.com,Medical Journal/Scientific Publication
+https://acsicorp.com,IT Consulting/Staffing Agency
+https://acslab.com,"Health/Science
+Laboratory Services"
+https://acrylicsheetsindia.com,"Home Decor/Interior Design, Online Shopping/E-commerce"
+https://acschikankari.com,Fashion
+https://actapol.net,Agriculture/Science
+https://actasdermo.org,Medical
+https://actascientific.com,Scientific/Journal
+https://actduck.com,"Video Games, Technology"
+https://actchealth.com,Medical
+https://act.com,Software/Business
+https://actglimpse.com,Search Engine
+https://actcorp.in,Telecom/Internet Service Provider
+https://actioncontrelafaim.org,Charity/Humanitarian Organization
+https://action4justice.org,"Social Justice, Human Rights"
+https://actionbutton.co,"1. Technology
+2. E-commerce"
+https://actilingua.com,Education/Educational Institution
+https://actionaid.org,Human Rights/NGO
+https://actiondata.co,"Business Intelligence Software
+Marketing Analytics"
+https://actiondash.com,Software
+https://actian.com,Technology/Software
+https://actee.com,"E-learning
+Professional Services"

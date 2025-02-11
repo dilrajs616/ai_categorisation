@@ -49,7 +49,7 @@ def ask_llama(payload):
 def generate_payload(content, prompt_type):
     if prompt_type == "category":
         return {
-            "model": "llama3.1",
+            "model": "llama3",
             "prompt": f"{content}, \n\nRead this content carefully. Ignore useless information like cookies and login etc. Tell me what is the most probable category for this website. If it can lie in more than one categories then tell twoo. DO NOT TELL ANY EXPLANATION. JUST TELL THE CATEGORY"
         }
     # elif prompt_type == "sub_category":
@@ -70,7 +70,7 @@ if __name__ == "__main__":
     now_time = time.time()
     print('starting execition')
 
-    df = pd.read_csv(input_path, nrows=362)
+    df = pd.read_csv(input_path, nrows=1001)
     print('csv file read')
     with open(output_path, 'w', newline='') as file:
         header_rows(output_path)
