@@ -1,45 +1,3 @@
-http://www.dow.com,Business/Industry,Chemicals,Chemicals
-http://www.intel.com,International organization,Technology,Semiconductors and Other Electronic Components
-http://www.chsinc.com,Company/Enterprise,"Food, Beverages & Tobacco",Food Production
-http://www.pmi.com,Corporate/E-commerce,"Food, Beverages & Tobacco",Tobacco
-http://www.bakerhughes.com,Corporate/Industrial,Energy,"Oil and Gas Equipment, Services"
-http://www.northropgrumman.com,Business/Industry,Aerospace & Defense,Aerospace and Defense
-http://www.internationalpaper.com,International organization,Materials,"Packaging, Containers"
-http://www.lear.com,Company,Motor Vehicles & Parts,Motor Vehicles and Parts
-http://www.edisoninvestor.com,Investment/Corporate Affairs,Energy,Utilities: Gas and Electric
-http://www.praxair.com,Industrial/Manufacturing,Chemicals,Chemicals
-http://www.libertyinteractive.com,"E-commerce Investment/Finance",Technology,Internet Services and Retailing
-http://www.darden.com,Education,"Hotels, Resturants & Leisure",Food Services
-http://www.reynoldsamerican.com,"Health/Non-Profit, Business","Food, Beverages & Tobacco",Tobacco
-http://www.fmctechnologies.com,Technology/Telecommunications,Energy,"Oil and Gas Equipment, Services"
-http://www.cmc.com,"Art/Design Education",Materials,Metals
-http://www.ncr.com,"E-commerce Financial Services",Technology,"Computers, Office Equipment"
-http://www.mrcglobal.com,"Engineering/Manufacturing Business",Energy,"Oil and Gas Equipment, Services"
-http://www.jbhunt.com,E-commerce,Transportation,"Trucking, Truck Leasing"
-http://www.leidos.com,Government,Technology,Information Technology Services
-http://www.sonoco.com,Business/Economy,Materials,"Packaging, Containers"
-http://www.aleris.com,Documentation/Tech Support,Materials,Metals
-http://www.libertymedia.com,Financial/Corporate,Media,Entertainment
-http://www.meadjohnson.com,Healthcare,"Food, Beverages & Tobacco",Food Consumer Products
-http://www.westlake.com,"Corporate News Business/Finance",Chemicals,Chemicals
-http://www.graphicpkg.com,"1. Software 2. Design",Materials,"Packaging, Containers"
-http://www.brunswick.com,Finance,Transportation,Transportation Equipment
-http://www.darlingii.com,Environmental/Sustainability,"Food, Beverages & Tobacco",Food Production
-http://www.genesisenergy.com,"Investment Financial Services",Energy,Pipelines
-http://www.watsco.com,Investment/Finance,Wholesalers,Wholesalers: Diversified
-http://www.xyleminc.com,Environment,Industrials,Industrial Machinery
-http://www.brinks.com,Finance,Business Services,Diversified Outsourcing Services
-http://www.bigheartpet.com,Animal Welfare,"Food, Beverages & Tobacco",Food Consumer Products
-http://www.unisys.com,Logistics/Business,Technology,Information Technology Services
-http://www.hyster-yale.com,"Business/Finance Corporation",Industrials,Industrial Machinery
-http://www.schnitzersteel.com,Corporate/Business,Materials,Metals
-http://www.aointl.com,Business/Company Information,"Food, Beverages & Tobacco",Tobacco
-http://www.newmarket.com,"Company/Corporate Finance",Chemicals,Chemicals
-http://www.gbrx.com,Company/Employment,Transportation,Transportation Equipment
-http://www.universalamerican.com,"Gaming, Entertainment",Health Care,Health Care: Insurance and Managed Care
-
-
-
 https://a1office.co,Online Gaming, document conversion
 https://a1.art,"Entertainment Gaming", ai image generation
 https://a16z.com,Technology, venture capital
@@ -49,3 +7,13 @@ https://aaatourship.com,Gaming, fantasy gaming
 https://aaceclinicalcasereports.com,Scientific/ Academic, Medical Research
 https://aadityaparmar.in,Education, Legal Information
 https://aadityacademy.com,"Biography, Automobile", Blogs
+https://aadyaworldwide.com,"1. Travel 2. E-commerce", Courier services
+https://aagmaal.cat,Website: Blog/Personal Diary, Adult
+https://aagmaal.dev,Technology/Website, Adult
+https://aagmaal.foo,Gaming, Porn
+https://aagmaal.mba,"Education, Business", Porn
+https://aagmaals.in,Technical Issue/Server Error, Porn
+https://aagmaal.moi,"Furry, Anime/Manga", Porn
+https://aagmaal.tv,"1. Video 2. Online Show", Porn
+https://aagmaal.shop,"E-commerce, Online Shopping", Porn
+https://aagmaal.tel,Feline-related, Porn
